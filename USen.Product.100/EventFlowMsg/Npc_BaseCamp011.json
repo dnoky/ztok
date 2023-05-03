@@ -1,0 +1,19 @@
+{
+  "Talk_1_2": "\u003csp:3:0:2:0101\u003e\u003csnd:TalkPositive_00\u003eIndeed! This place was originally used by\nthe royal family as a safe haven in times\nof need.\nIt\u0027s quite old, so we\u0027ve been fixing it up\nas we go, you see.\n\nAt this point, we\u0027ve stockpiled\nsome supplies, and I find it to be\ndownright cozy!",
+  "Talk_1_10": "\u003csp:3:0:2:0401\u003e\u003csnd:SurpriseS_00\u003eThe word is that Princess Zelda was\nsighted in \u003cclr:0000\u003eHyrule Castle\u003cclr:ffff\u003e.\n\n\u003csp:3:0:2:0c01\u003eIf only I, Monte, weren\u0027t tasked with this\nmost important duty, I would be out there\nlooking for her myself.",
+  "Talk_1_3": "\u003csp:3:0:2:0101\u003e\u003csnd:TalkPositive_01\u003eI, Monte, have been tasked with the\nillustrious duty of watching the entrance\nof this renowned emergency shelter.\nMy tasks involve taking orders from my\nsuperiors regarding when to open—or\nSHUT—the entryway!\nA noble task indeed.",
+  "Talk_1_11": "\u003csp:3:0:2:0801\u003e\u003csnd:Greeting_00\u003eI\u0027ll be keeping up with your exploits in the\npaper, Link! Good day to you!",
+  "0005": "Emergency shelter?",
+  "Talk_1_4": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_00\u003eWatch your footing when using the ladder.\n\n\nIf only one could go straight through the\nceiling rather than using a tiresome\nladder, ha! But I digress.",
+  "Talk_1_5": "\u003csp:3:0:2:0101\u003eThis is the \u003cclr:0000\u003eemergency shelter\u003cclr:ffff\u003e, where all\nare welcome.\u003csp:5:0:0\u003e Please! Stay as long as\nyou like.",
+  "0006": "What are you doing here?",
+  "Talk_1_6": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_00\u003eLink! Welcome, welcome!\n\n\nCall me Monte. You will find me\nemployed as the gatekeeper of this\nfine establishment.",
+  "0007": "Goodbye.",
+  "Talk_1_7": "\u003csp:3:0:2:0101\u003e\u003csnd:Happy_00\u003eLink! Welcome, welcome!",
+  "Talk_1_8": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_00\u003eThough you see before you a hole in the\nwall, fear not! This place is solid as\na rock.",
+  "NakedPlayer_00": "What a striking figure!",
+  "Talk_1_9": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_00\u003eOur cook, Burmano, is out at the moment.\nFeel free to use his pot whenever you like.",
+  "NakedPlayer_01": "It\u0027s risky to go unarmored.",
+  "NakedPlayer_02": "Down to the skivvies, hm?",
+  "Talk_1_1": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_01\u003eThere is no need to worry about monsters\u003cclr:0000\u003e\u003cclr:ffff\u003e\nwhile you\u0027re in the \u003cclr:0000\u003eemergency shelter\u003cclr:ffff\u003e.\u003csp:5:0:0\u003e\nJust relax, and go about your business!"
+}

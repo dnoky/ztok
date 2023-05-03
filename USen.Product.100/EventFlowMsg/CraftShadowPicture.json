@@ -1,0 +1,15 @@
+{
+  "talk0004": "\u003csp:3:0:2:0301\u003eOh. You discovered the shrine already?\nBefore I imparted my words of guidance?\u003csp:0:4:0\u003e\u003csp:3:0:2:0a00\u003eWell. That makes me feel rather\nsuperfluous.\u003csp:0:4:0\u003eI should have spoken up sooner.\nApologies.",
+  "Near0002": "My task is complete.",
+  "talk0005": "\u003csp:3:0:2:0101\u003e\u003csnd:Ease\u003eThe task I was given is complete thanks\nto you.\n\n\u003csp:3:0:2:0001\u003eNow I will watch over the sacred shrine.",
+  "talk0006": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy\u003eWelcome back to the land of the sacred\nshrine.\u003csp:5:0:0\u003e I am glad to have you here again.",
+  "talk0000": "\u003csp:3:0:2:0700\u003eWelcome.\u003csp:5:0:0\u003e You have tread upon the land\nof a sacred shrine. I am the keeper of\nsaid shrine.",
+  "talk0007": "\u003csp:3:0:2:0101\u003e\u003csnd:Notice\u003eMy task is complete thanks to you.\n\n\nNow I will watch over the sacred shrine.",
+  "talk0001": "\u003csp:3:0:2:0701\u003e\u003csnd:Think\u003eThis shrine is mine to oversee whether in\nthe sky or on the surface. As is the land\nwhere it resides.",
+  "talk0008": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy\u003eYour skill is impressive.\u003csp:5:0:0\u003e Have you\nconsidered taking part in the\n\u003cclr:0000\u003edive ceremony\u003cclr:ffff\u003e?\nYou should participate if you have not\ndone so.\n\n\u003csp:3:0:2:0800\u003e\u003csnd:Ease\u003eThe dive ceremony is a test of bravery\nthat young Zonai must pass in order to be\nconsidered adults.\nYou can earn a \u003cclr:0000\u003especial outfit \u003cclr:ffff\u003eas proof of\nyour maturity by clearing the trial.\n\nBut this island is not where it takes place.",
+  "talk0010": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseS\u003eOh... You have already gone to all three\nsky islands and completed the ceremony?\n\nI should have guessed as much...\u003csp:5:0:0\u003e\nYour talent is plain as day.",
+  "talk0002": "\u003csp:3:0:2:0001\u003eMy task is to guide visitors here to the\nsacred shrine by conveying this message:\n\n\u003csp:3:0:2:0800\u003e\u003cclr:0000\u003e\"Dye the white pattern black when the\nsun awakens in the sky. Then will the\nsacred shrine appear.\"\u003cclr:ffff\u003e",
+  "talk0009": "\u003csp:3:0:2:0700\u003eThe dive ceremony is held on three\nsky islands.\n\nOne \u003cclr:0000\u003enorth of Central Hyrule Sky\u003cclr:ffff\u003e...\n\n\nanother \u003cclr:0000\u003ewest of Central Hyrule Sky\u003cclr:ffff\u003e...\n\n\nand a third \u003cclr:0000\u003esouth of Lanayru Sky\u003cclr:ffff\u003e.\n\n\n\u003csp:3:0:2:0001\u003e\u003csnd:Ease\u003eI have no doubt you will be able to pass\nthe trials on all three islands and thereby\nobtain the outfit.\nPlease do so when you have time.",
+  "Near0000": "I have information.",
+  "talk0003": "\u003csp:3:0:2:0101\u003eThe shrine will appear when you unlock\nthe true meaning of these words."
+}

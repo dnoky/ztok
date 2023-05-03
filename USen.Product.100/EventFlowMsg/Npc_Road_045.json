@@ -1,0 +1,15 @@
+{
+  "SavedLv1_00": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eI could have handled that on my own...\u003csp:5:0:0\u003e\nbut thanks anyway!",
+  "Guardian00": "\u003csp:3:0:2:0200\u003e\u003csnd:SurpriseM\u003eNot good! Very not good!\u003csp:5:0:0\u003e This thing\u0027s\nout for blood!\n\nHitting it head-on is NOT an option, that\u0027s\nfor sure. So what\u0027s the play? \u003csp:5:0:0\u003eWell, I\u0027ll let\nyou figure that out!",
+  "Thanks00": "\u003csp:3:0:2:0100\u003eI know it\u0027s not much, but please take this.",
+  "SavedLv1_01": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eMy thanks! That enemy wasn\u0027t quite as\neasy as I\u0027d thought.",
+  "SavedLv2_00": "\u003csp:3:0:2:0300\u003e\u003csnd:Ease\u003eThanks! I was in trouble back there.",
+  "Atacked00": "\u003csp:3:0:2:0200\u003e\u003csnd:TalkPositive_00\u003eThanks, but...\u003csp:5:0:0\u003ebe careful!",
+  "SavedLv2_01": "\u003csp:3:0:2:0300\u003e\u003csnd:Ease\u003eThanks for helping me get away safely!",
+  "SavedLv3_00": "\u003csp:3:0:2:0800\u003eThanks for your help! I wasn\u0027t sure which\nway that fight would go...",
+  "Atacked01": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive_01\u003eThanks for helping out! \u003csp:5:1:0\u003eI really need it!",
+  "EnokidaSignboard": "Isn\u0027t that in Tarrey Town?",
+  "SavedLv3_01": "\u003csp:3:0:2:0800\u003eThank you. If you hadn\u0027t come when\nyou did, my life might have been cut\ntragically short...",
+  "Failed00": "\u003csp:3:0:2:0a00\u003e\u003csnd:Sad_00\u003eThat did not go well...\u003csp:5:0:0\u003e I\u0027m just glad that\nI\u0027m still breathing...",
+  "Failed01": "\u003csp:3:0:2:0a00\u003e\u003csnd:Tired\u003eI\u0027m sorry you had to see me like that.\u003csp:5:0:0\u003e\nNot my finest hour, that\u0027s for sure..."
+}

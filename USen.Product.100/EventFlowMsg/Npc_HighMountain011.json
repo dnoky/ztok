@@ -1,0 +1,19 @@
+{
+  "Talk2005": "\u003csp:3:0:2:0700\u003eI\u0027m just about finished inspecting the\nrepaired bridge. \u003csp:5:0:0\u003eI\u0027d be done by now if it\nwasn\u0027t for this rain.",
+  "0004": "Where\u0027s Tulin?",
+  "Talk007": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy_00\u003eThanks for helping to keep our food\nsupplies intact. I\u0027ll deliver them to the\nvillage as soon as I\u0027ve packed them up.",
+  "Talk013": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy_00\u003eHey. I owe you for opening up that cave\nthe last time we met.\u003csp:0:4:0\u003e\u003csp:3:0:2:0101\u003eThanks to you, all the food I collected\nmade it back to the village. They needed\nit too!\u003csp:0:4:0\u003eI wish I could say everything is fine now\nthat the snow has stopped...\u003csp:5:0:0\u003ebut I need to\ncheck for any damage to the bridges.\n\u003csp:3:0:2:0001\u003eThe last thing we want is any more\nbridges collapsing.",
+  "0005": "Goodbye.",
+  "Talk014": "\u003csp:3:0:2:0700\u003eI wish I could say everything is fine now\nthat the snow has stopped...\u003csp:5:0:0\u003ebut I need to\ncheck for any damage to the bridges.\n\u003csp:3:0:2:0001\u003eThe last thing we want is any more\nbridges collapsing.",
+  "Talk015": "\u003csp:3:0:2:0700\u003eFrom my initial inspection, none of the\nother bridges look too seriously damaged.\u003csp:0:4:0\u003eBut it couldn\u0027t hurt to inspect them again\njust to be sure.",
+  "near2002": "Hmph. It\u0027s raining again.",
+  "Talk016": "\u003csp:3:0:2:0700\u003eIt\u0027s cold outside the cave. Keep yourself\nwarm, OK?",
+  "Near12": "Are the bridges OK?",
+  "Near13": "I\u0027m glad it\u0027s fixed.",
+  "Talk017": "\u003csp:3:0:2:0700\u003eI\u0027m relieved that the snow has stopped\nand the bridge is repaired.\u003csp:0:4:0\u003eI went around checking the other bridges\ntoo, and none of the rest seemed to have\nbeen damaged by the blizzard.\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eWith the bridge inspections behind me,\nI can go back to guarding the village.",
+  "Talk018": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy_00\u003eI went around checking the other bridges\ntoo, and none of the rest seemed to have\nbeen damaged by the blizzard.\u003csp:0:4:0\u003eWith the bridge inspections behind me,\nI can go back to guarding the village.",
+  "Near09": "The food seems safe.",
+  "Talk019": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy_00\u003eHey, I owe you one for helping open up\nthat cave.\u003csp:0:4:0\u003e\u003csp:3:0:2:0101\u003eThanks to you, all the food I collected\nmade it back to the village. They needed\nit too!\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eI\u0027m relieved that the snow has stopped\nand the bridge is repaired.\u003csp:0:4:0\u003eI went around checking the other bridges,\ntoo, and none of the rest seemed to have\nbeen damaged by the blizzard.\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eWith the bridge inspections behind me,\nI can go back to guarding the village.",
+  "Talk2002": "\u003csp:3:0:2:0300\u003e\u003csnd:Sad\u003eI was in the middle of inspecting the\nbridges, but I\u0027ll have to get back to it\nafter the rain stops. \u003csp:5:0:0\u003eGuess it\u0027s break time.",
+  "Talk010": "\u003csp:3:0:2:0700\u003e\u003csnd:Ease_01\u003eWe\u0027re lucky the cave-in didn\u0027t extend\nfarther inside.\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eAlso that the food I collected is still intact.\nI need to pack it up and hurry it over to\nthe village."
+}

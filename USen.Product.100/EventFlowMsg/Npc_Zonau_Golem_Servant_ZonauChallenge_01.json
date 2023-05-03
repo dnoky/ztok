@@ -1,0 +1,22 @@
+{
+  "Talk_008": "\u003csp:3:0:2:0a00\u003e\u003csnd:Notice\u003eYou do not have enough zonaite. Please\ncome again when you have the amount\nI require.",
+  "Talk_009": "\u003csp:3:0:2:0a00\u003e\u003csnd:Notice\u003eOh? You have no room in your belongings.\nCreate space for the item I want to\nprovide and come again.",
+  "Talk_015": "\u003csp:3:0:2:0300\u003e\u003csnd:Think\u003eApologies. We are out of inventory for\nthis item. I cannot exchange for it until\nmore are produced.",
+  "Talk_016": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eThis exchange is complete.\u003csp:0:4:0\u003eAh. I seem to have reached the limits of\nmy inventory. Further exchanges must\nwait until production catches up.",
+  "0005": "Let\u0027s see here...",
+  "Talk_000": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive\u003eI am a smithing construct. Mineru created\nme to try to unlock the hidden potential\nof Zonai charges.\u003csp:0:4:0\u003eI was made with the unique ability\nto temper zonaite for weapons and\nequipment.\u003csp:0:4:0\u003e\u003csp:3:0:2:0a01\u003e\u003csnd:Sad\u003eI was driven into hiding when a minion\nof the Demon King occupied the\nSpirit Temple.\u003csp:0:4:0\u003e\u003csp:3:0:2:0801\u003eBut you and Mineru have cleared the way.\nI can perform my work once again.\u003csp:0:4:0\u003e\u003csnd:Happy\u003eYou have my wholehearted thanks.\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eI would ordinarily not work for anyone\nother than Mineru.\u003csp:0:4:0\u003eBut you are a special case.\u003csp:0:4:0\u003eI will gladly exchange my special weapons\nand equipment with you. It will be up to\nyou to provide the zonaite.",
+  "Talk_017": "\u003csp:3:0:2:0a00\u003e\u003csnd:QuestionNormal\u003eThere is a slight issue. I have reached the\nlimits of my inventory.\u003csp:0:4:0\u003eWould you like to review what I am\ntheoretically capable of exchanging?",
+  "0006": "Never mind.",
+  "Talk_001": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive\u003eWelcome. Mineru has formally directed me\nto provide you with my finest work.\u003csp:0:4:0\u003e\u003csp:3:0:2:0801\u003eI will gladly exchange my special weapons\nand equipment with you. It will be up to\nyou to provide the zonaite.",
+  "Talk_018": "\u003csp:3:0:2:0701\u003eThis is the catalog of what I can exchange.",
+  "Talk_002": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive\u003eDo you have zonaite for me?\u003csp:0:4:0\u003eI will gladly exchange my special weapons\nand equipment with you. But it is up to\nyou to provide the zonaite.",
+  "Near_00": "I am ready to produce.",
+  "Talk_003": "\u003csp:3:0:2:0000\u003eWhat would you like in exchange?",
+  "Talk_004": "\u003cclr:0000\u003e\u003csp:3:0:2:0000\u003e\u003cclr:ffff\u003eThat will require \u003cclr:0000\u003e\u003csp:2:2:50:4a00530068006f0070005f00540072006100640065004900740065006d005000610079006d0065006e0074004d006100740065007200690061006c0054006f00740061006c004e0075006d00ffff01cd\u003e \u003csp:c9:6:28:10007000690065006300650020006f006600120070006900650063006500730020006f0066000000\u003e zonaite\u003cclr:ffff\u003e.",
+  "Talk_010": "\u003csp:3:0:2:0800\u003eThank you. I await further commands.",
+  "0000": "It\u0027s a deal.",
+  "0001": "Maybe something else.",
+  "Talk_006": "\u003csp:3:0:2:0800\u003eThis exchange is complete. Would you like\nanything else?",
+  "Talk_007": "\u003csp:3:0:2:0700\u003e\u003csnd:SurpriseS\u003eYou want to cancel this job? As you wish.",
+  "0002": "Let\u0027s exchange."
+}

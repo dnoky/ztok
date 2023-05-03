@@ -1,0 +1,15 @@
+{
+  "Text19": "\u003csp:3:0:2:0500\u003eBut...what could this mean?",
+  "Text12": "\u003csp:3:0:2:0001\u003eSurely the Master Sword is awaiting you,\njust as you are seeking it.",
+  "Text21": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy_01\u003eYou. \u003csp:5:1:0\u003eYou appear to be faced with trouble\nonce more.\n\nBut I see you have procured the\nMaster Sword.",
+  "Text13": "\u003csp:3:0:2:0500\u003eIt\u0027s...here.",
+  "Text06": "\u003csnd:Sad_00\u003eBut...the sword...\n\n\nIt would seem that you no longer wield it.\nWhere has it gone?",
+  "Text07": "\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS_00\u003eWhat is this, then?\u003csp:5:1:0\u003e You do not know\nwhere the Master Sword is?",
+  "Text17": "\u003csp:3:0:2:0500\u003e...\u003csp:5:1:0\u003e\u003csp:0:4:0\u003e\u003csp:3:0:2:0c01\u003e\u003csnd:TalkDeny_01\u003eHmm?\u003csp:0:4:0\u003eAh. So it is you...\n\n\n\u003csp:3:0:2:0000\u003e\u003csnd:Think_01\u003eI must apologize. I am still quite groggy,\nas though I am awakening from a\nbad dream.\nYou rid me of that unpleasantness deep\nwithin me.\n\nYes. You went to great trouble to\nrestore me.\n\nThank you.",
+  "Text08": "\u003csp:3:0:2:0000\u003eI see. Yet...I can sense it, even now.",
+  "Text10": "\u003csp:3:0:2:0500\u003e\u003csnd:Think_01\u003eIn the sky... I feel the Master Sword\u0027s\npresence strongly in this area.",
+  "Text18": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_01\u003eIt has been some time since last\nwe spoke.\n\nHave you been well?\u003csp:0:4:0\u003eHmm, yes, the last time we spoke...\u003csp:0:4:0\u003eThat was when you came here with the\nprincess to retrieve the Master Sword.",
+  "Text09": "\u003csp:3:0:2:0c01\u003eThere can be no mistake.",
+  "Text20": "\u003csp:3:0:2:0500\u003eThe Master Sword seems to be moving.",
+  "Text11": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_01\u003eYou may need to be resourceful to reach\nthe sword, but you must find a way."
+}

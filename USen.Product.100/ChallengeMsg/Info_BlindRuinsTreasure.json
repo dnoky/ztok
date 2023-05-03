@@ -1,0 +1,8 @@
+{
+  "LookAtBoard_1": "Kazul of the Zonai Survey Team is looking into\nmonoliths at the Thyphlo Ruins.\n\nYou should see \u003cclr:0000\u003ewhat is written there\u003cclr:ffff\u003e.",
+  "Name": "Investigate the Thyphlo Ruins",
+  "Search_1": "You read mysterious instructions on a monolith\ndiscovered by Kazul of the Zonai Survey Team.\n\nSearch the Thyphlo Ruins, and find the place\nmentioned in the riddle.",
+  "Complete": "The writing on the monolith discovered in the\nbasement of the Thyphlo Ruins said the ruins\nwere built to commemorate the king and sages\nwho defended Hyrule from the Demon King.\n\nInspired by the monolith, Kazul of the Zonai\nSurvey Team was eager to report to the\ndivision headquarters.",
+  "GoToCave": "Once you found all four stone huts hidden in\nthe Thyphlo Ruins, you heard a loud sound\nfrom somewhere.\n\nWhat could have happened in the ruins?",
+  "RewardNotReceived": "You discovered a monolith in the Thyphlo Ruins\nbasement. Inspired, Kazul of the Zonai Survey\nTeam wants to reward you with a \u003cclr:0000\u003elarge Zonai\ncharge\u003cclr:ffff\u003e, a big battery, and a diamond.\n\nHowever, your pouch was full, so you were\nunable to receive the reward. You should \u003cclr:0000\u003emake\nsome room\u003cclr:ffff\u003e and come back."
+}

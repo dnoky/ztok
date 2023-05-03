@@ -1,0 +1,12 @@
+{
+  "talk_1015": "\u003csp:3:0:2:0200\u003e\u003csnd:Angry_01\u003eAfter all, I have a master to avenge!\u003csp:1:3:4:5a000000\u003e",
+  "talk_1000": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_00\u003eExcuse me, traveler...\u003csp:5:0:0\u003e Do you know me,\nby any chance?\n\n\u003csp:3:0:2:0c00\u003eWho am I? \u003csp:5:0:0\u003eWHERE am I? \u003csp:5:0:0\u003eAm I a villain?\u003csp:5:0:0\u003e\nOr an ally of justice?",
+  "talk_1011": "\u003csp:3:0:2:0200\u003e\u003csnd:Angry_01\u003eWell, in that case, I can\u0027t let you go home\nin one piece, can I?\u003csp:1:3:4:5a000000\u003e",
+  "talk_1020": "\u003csp:3:0:2:0200\u003e\u003csnd:Angry_01\u003eEnter the Yiga Clan—allies of justice!\nJudgment has come for you,\nvillainous Link!\u003csp:1:3:4:5a000000\u003e",
+  "talk_1012": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy_00\u003eI knew that was it!\u003csp:5:0:0\u003e Thank you! Now I\nremember everything!",
+  "talk_1021": "\u003csp:3:0:2:0200\u003e\u003csnd:Angry_01\u003eEnter the Yiga Clan—allies of justice!\nConsider this your divine punishment\nfrom Master Kohga!\u003csp:1:3:4:5a000000\u003e",
+  "talk_1003": "\u003csp:3:0:2:0000\u003e\u003csnd:QuestionNormal\u003eWhat gives? You looking for a fight?\n\n\n\u003csp:3:0:2:0900\u003ePeople will realize I\u0027m in the Yiga Clan\nif you get too close, you moron!\n\nWhat\u0027ll I do if my perfect disguise gets\nfound out?! The jig will be up!",
+  "0000": "A villain.",
+  "near_0000": "Who...am I?",
+  "0001": "An ally of justice."
+}

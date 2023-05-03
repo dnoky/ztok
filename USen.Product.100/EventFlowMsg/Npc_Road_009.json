@@ -1,0 +1,15 @@
+{
+  "NakedPlayer": "Is this man...all right?",
+  "Near02": "Isn\u0027t that amazing?",
+  "Near03": "Not in this rain...",
+  "Talk10": "\u003csp:3:0:2:0701\u003e\u003csnd:QuestionNormal_00\u003eYou wanted to see the floating Ring Ruin,\nTotsie, but you fell asleep?\n\nYou\u0027re really missing out...\u003csp:5:1:0\u003e",
+  "Talk44": "\u003csp:3:0:2:0401\u003e\u003csnd:Notice_00\u003eQuick, Totsie!\u003csp:5:1:0\u003e We\u0027ll get wet!",
+  "Talk08": "\u003csp:3:0:2:0c01\u003e\u003csnd:QuestionNormal_01\u003eHey, Totsie. Rain doesn\u0027t stop the\nZonai Survey Team from working on\ntheir research.\n\u003csp:3:0:2:0701\u003eSo maybe we should work outside in the\nrain too.\u003csp:5:1:0\u003e Maybe...\u003csp:5:1:0\u003e",
+  "Near04": "Waaah! Rain!",
+  "Talk02": "\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_01\u003eGood grief. Late! I can\u0027t start eating\nwithout Totsie.\u003csp:5:1:0\u003e",
+  "Talk09": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseM\u003eWait, you\u0027re not Totsuna! \u003csp:5:0:0\u003eWhat business\ndo you have startling folks like that?",
+  "Talk11": "\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_01\u003eI heard that \u003cclr:0000\u003estone slabs\u003cclr:ffff\u003e were found in\nthe other four Ring Ruins sites. I wonder\nif there\u0027s one in this ring too.\nWhat do you think is written on\nthem, Totsie?\u003csp:5:1:0\u003e",
+  "Talk03": "\u003csp:3:0:2:0a01\u003e\u003csnd:Think_00\u003eI\u0027m starving! \u003csp:5:1:0\u003eLet\u0027s see if I can whip\nsomething up in the kitchen...",
+  "Talk04": "\u003csp:3:0:2:0c01\u003e\u003csnd:QuestionNormal_01\u003eI bet only the very best researchers from\nthe \u003cclr:0000\u003eZonai Survey Team\u003cclr:ffff\u003e get picked to work\non valuable sites like the Ring Ruins.\n\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_00\u003eIf we join the survey team, I\u0027d want to\ninvestigate amazing places like that!\u003csp:5:1:0\u003e\nRight, Totsie?",
+  "Talk05": "\u003csp:3:0:2:0101\u003e\u003csnd:LaughL_00\u003eWith all the ruins falling from the sky, the\nUpheaval really hit Kakariko Village hard.\n\n\u003csp:3:0:2:0801\u003eThe chief was smart to take advantage\nand use tourism to liven things up.\u003csp:5:1:0\u003e\nRight, Totsie?"
+}

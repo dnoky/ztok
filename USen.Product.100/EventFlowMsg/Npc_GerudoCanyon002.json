@@ -1,0 +1,17 @@
+{
+  "Greeting_MidNight": "\u003csp:3:0:2:0001\u003e\u003csnd:Wakeup\u003eOops, sorry! I nodded off there for\na minute.",
+  "Talk_01": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eEvery little bit of progress I make is\none step closer to this place finally\nbeing clean!\nI actually enjoy cleaning, so I think of this\nas training and refining my skills!",
+  "Talk_02": "\u003csp:3:0:2:0001\u003eOh, that reminds me—I found something\npretty that I\u0027d like you to have.",
+  "Talk_03": "\u003csp:3:0:2:0001\u003e\u003csnd:TalkPositive\u003eThe mountain of garbage is a formidable\nfoe. I\u0027m taking a little break now, but I\u0027ll\nbe right back at it in the morning.",
+  "Balloon_Night": "Just a little more...",
+  "Greeting_Noon": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting\u003eOh, hello.\n\n\nI really appreciate the bright sun during\nthe day—it makes it easy to spot every\nlast little thing that needs cleaning!",
+  "Talk_04": "\u003csp:3:0:2:0001\u003e\u003csnd:Ease\u003eI\u0027m gonna rest for just a little bit, then\nI\u0027ll keep working.\n\nHonestly, cleaning is something of a\npassion of mine. I can\u0027t wait until morning\ncomes and I can get back to it!",
+  "Balloon_Morning": "What a nice morning.",
+  "Greeting_Night": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting\u003eOh, good evening.\n\n\nThe sun is setting, and with it goes my\ndrive to clean, mainly because it\u0027s so hard\nto see without the sun blazing overhead.",
+  "Talk_05": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive\u003eCleaning up this mountain of garbage is\na daunting task...\n\nBut I enjoy it! I just picture how it\u0027ll\nlook when I\u0027m done and that keeps\nme motivated!",
+  "Balloon_Evening": "Before it gets dark...",
+  "Talk_06": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eIf I can make this place sparkle like a\ngem, that\u0027ll bring me all the joy I need.",
+  "Balloon_Noon": "Got to work hard...",
+  "Balloon_MidNight": "Zzz... Zzz...",
+  "Greeting_Morning": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting\u003eOh, good morning.\n\n\nI woke up early today so that I could get\nas much cleaning done as possible."
+}

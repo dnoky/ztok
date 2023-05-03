@@ -1,0 +1,16 @@
+{
+  "SavedLv1_01": "\u003csp:3:0:2:0800\u003eThanks, fella!",
+  "EnokidaSignboard": "Is that hairstyle in now?",
+  "ComNakedCheck_W_001": "\u003csp:3:0:2:0700\u003eHey, whoa!\u003csp:5:1:0\u003e I\u0027m a free spirit too, but...\u003csp:0:4:0\u003eYou have to put on a shirt or some\ntrousers before you talk to me!",
+  "NakedPlayer": "Where\u0027s the style in that?",
+  "SavedLv3_00": "\u003csp:3:0:2:0500\u003e\u003csnd:Ease\u003ePhew, I\u0027m OK...\u003csp:5:1:0\u003e Thanks for the save!",
+  "Guardian00": "\u003csp:3:0:2:0400\u003e\u003csnd:Scare\u003eOh, boy! If that thing knocks me down,\nI\u0027m not gettin\u0027 back up!",
+  "SavedLv3_01": "\u003csp:3:0:2:0800\u003eWay to go, fella!\u003csp:5:0:0\u003e I can\u0027t even tell you\nhow much I needed your help!",
+  "Atacked00": "\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseL_01\u003eAaagh! \u003csp:5:0:0\u003eNeed a hand here!",
+  "SagonoHat": "A new Cece piece?",
+  "SavedLv2_00": "\u003csp:3:0:2:0400\u003e\u003csnd:Admiration\u003eYou\u0027re made of tough stuff, fella...\u003csp:5:0:0\u003e\nI could learn a thing or five.",
+  "Atacked01": "\u003csp:3:0:2:0300\u003e\u003csnd:Sad_00\u003eYou have GOT to be kidding me!",
+  "SavedLv2_01": "\u003csp:3:0:2:0800\u003eNot bad, fella!",
+  "SavedLv1_00": "\u003csp:3:0:2:0a00\u003e\u003csnd:Ease\u003eThat...\u003csp:5:0:0\u003ewas not my finest moment.\u003csp:5:1:0\u003e Thanks,\nfella. That could\u0027ve been hairy.",
+  "Thanks00": "\u003csp:3:0:2:0100\u003eHere. It\u0027s the least I can do."
+}

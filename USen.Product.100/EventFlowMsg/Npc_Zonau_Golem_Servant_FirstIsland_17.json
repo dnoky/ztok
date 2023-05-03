@@ -1,0 +1,10 @@
+{
+  "0000": "Fortified how?",
+  "talk_02": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eThat is excellent news. \u003csp:5:1:0\u003eThe cold can be\nfatal for the unprepared.",
+  "talk_07": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eThat is a relief. \u003csp:5:1:0\u003eTake care to keep yourself\nwarm as you climb the mountain.",
+  "talk_03": "\u003csp:3:0:2:0700\u003eThe primary safeguards used by our\ncreators were \u003cclr:0000\u003emeals that warmed them\u003cclr:ffff\u003e.\u003csp:0:4:0\u003eThese meals were typically prepared using\ningredients with \u003cclr:0000\u003ewarm-sounding\u003cclr:ffff\u003e names.\u003csp:5:0:0\u003e\nAny such ingredients will suffice.\u003csp:0:4:0\u003eSome also wore thick clothes or warmed\nthemselves by a fire. \u003csp:5:0:0\u003eThese solutions were\neffective but less accessible.\u003csp:0:4:0\u003e\u003csp:3:0:2:0700\u003eBe mindful of your ingredients when\ncooking. \u003csp:5:0:0\u003eMy understanding is that only\none cooking effect can apply per meal.\u003csp:0:4:0\u003eYou must take care not to eat something\nwith a different effect afterward. \u003csp:5:0:0\u003eThe chill\nwill set in again sooner than you expect.",
+  "0002": "I\u0027m all set!",
+  "talk_04": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal\u003eAre you \u003cclr:0000\u003efortified against the cold \u003cclr:ffff\u003eof this\nsnowy mountain?",
+  "talk_00": "\u003csp:3:0:2:0700\u003e\u003csnd:Notice_00\u003eExcuse me. \u003csp:5:0:0\u003eThe snowy mountain above us\nis extremely cold.\u003csp:0:4:0\u003eUnprepared travelers will \u003cclr:0000\u003eswiftly lose\nvitality\u003cclr:ffff\u003e and may even die. \u003csp:5:1:0\u003eAre you \u003cclr:0000\u003efortified\nagainst the cold\u003cclr:ffff\u003e?",
+  "talk_05": "\u003csp:3:0:2:0700\u003e\u003csnd:Think\u003eInsufficient preparation can lead to death\nin harsh environments. \u003csp:0:4:0\u003eMy advice can avert this. Please\nlisten carefully."
+}

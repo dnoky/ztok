@@ -1,0 +1,14 @@
+{
+  "Dm_RT_0009_02": "\u003csp:3:0:2:0401\u003e\u003csnd:SurpriseM_00\u003eWha— Link? Where did you come from?!",
+  "Dm_RT_0009_03": "\u003csp:3:0:2:0901\u003e\u003csnd:TuliAngry_00\u003eI\u0027ve gotta get it back! Help me out, Link?",
+  "Dm_RT_0009_05": "\u003csp:3:0:2:0c01\u003eThat rotten monster took my good bow.",
+  "0005": "Sure!",
+  "Dm_RT_0009_06": "\u003csp:3:0:2:0900\u003e\u003csnd:SurpriseS_00\u003eSee? That\u0027s the bow-napper!",
+  "0006": "Not just yet.",
+  "Dm_RT_0009_15": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_01\u003eReally?! Thanks!\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eDidja know I can \u003cclr:0000\u003eblow a strong gust of\nwind anywhere I feel like\u003cclr:ffff\u003e?\u003csp:0:4:0\u003eI\u0027ll do it for you too. That way, you can\n\u003cclr:0000\u003eglide \u003cclr:ffff\u003eover to where that monster went.\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_00\u003eJust \u003cclr:0000\u003etell me\u003cclr:ffff\u003e where to point the gust, and\nI\u0027ll \u003cclr:0000\u003emake it for you\u003cclr:ffff\u003e! ",
+  "Dm_RT_0009_Near01": "Shoulda kept my guard up!",
+  "0007": "What happened?",
+  "Dm_RT_0009_07": "\u003csp:3:0:2:0a00\u003e\u003csnd:Think_00\u003eOK. I can wait.",
+  "Dm_RT_0009_01": "\u003csp:3:0:2:0901\u003e\u003csnd:TuliHowl_00\u003eStupid monster!",
+  "Dm_RT_0009_08": "\u003csp:3:0:2:0b00\u003e\u003csnd:Painful_00\u003eOh, uh, you see..."
+}

@@ -1,0 +1,15 @@
+{
+  "SavedLv1_00": "\u003csp:3:0:2:0001\u003e\u003csnd:TalkPositive\u003eThat didn\u0027t seem like much of a threat,\nbut it\u0027s still good to know you\u0027re looking\nout for me.\u003csp:5:0:0\u003e",
+  "Guardian00": "\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS\u003eThat thing\u0027s sheer power is nowhere\nnear normal!\u003csp:5:0:0\u003e No way to hit it head-on\nwithout being plain destroyed!",
+  "Thanks00": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eA little reward for you... Here,\u003csp:5:0:0\u003e take this.",
+  "SavedLv1_01": "\u003csp:3:0:2:0001\u003e\u003csnd:TalkPositive\u003eThanks! More monsters turning up here\nis getting to be a real pain.",
+  "SavedLv2_00": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eYou helped me out!\u003csp:5:0:0\u003e Wasn\u0027t the worst\nscrap I\u0027ve seen, but I could\u0027ve been hurt\nif I wasn\u0027t on guard.",
+  "Atacked00": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseL_00\u003eWhat a relief!\u003csp:5:0:0\u003e Can you do something\nabout this?",
+  "SavedLv2_01": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eWell, look at that!\u003csp:5:0:0\u003e I bet that was a piece\nof cake for you, right?",
+  "SavedLv3_00": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy\u003ePretty good!\u003csp:5:1:0\u003e Want to be my bodyguard?\u003csp:5:1:0\u003e\nHa, just kidding!",
+  "Atacked01": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM_01\u003eI wish I could say I don\u0027t need the help...\u003csp:5:1:0\u003e\nbut I\u0027ve got to swallow my pride here.\u003csp:5:0:0\u003e\nThank you!",
+  "EnokidaSignboard": "Won\u0027t forget this soon...",
+  "SavedLv3_01": "\u003csp:3:0:2:0301\u003e\u003csnd:Ease\u003ePretty darn close...\u003csp:5:1:0\u003e Good thing you\nhappened by. Thanks!",
+  "Failed00": "\u003csp:3:0:2:0301\u003e\u003csnd:Ease\u003eYou saved me...somehow.\u003csp:5:1:0\u003e When I got\nknocked out, I thought I was a goner.",
+  "Failed01": "\u003csp:3:0:2:0001\u003e\u003csnd:Ease\u003eYeesh. That was ugly.\u003csp:5:0:0\u003e I just totally let\nmy guard down there."
+}

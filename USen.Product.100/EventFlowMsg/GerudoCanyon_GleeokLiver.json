@@ -1,0 +1,23 @@
+{
+  "Comment_10": "\u003csp:3:0:2:0301\u003e\u003csnd:Sad_01\u003eA Gleeok is a horrible creature that flaps\nacross the sky using huge wings.\n\nI know there\u0027s one that flies over\nGerudo Canyon, but attacking it would\nbe difficult.\n\u003csp:3:0:2:0c01\u003eI will need to prepare somehow.\u003csp:5:0:0\u003e",
+  "Comment_04": "\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_00\u003eWe have decided to continue our wedding\nadventure. I have promised not to push\nhim harder than I should this time.\nWell then...sav\u0027orq!",
+  "Comment_06": "\u003csp:3:0:2:0a01\u003e\u003csnd:Think\u003eI would take on a Gleeok if I could.\nBut I...\n\n\u003csp:5:1:0\u003eI bring shame on myself, just\nstanding here.",
+  "Comment_07": "\u003csp:3:0:2:0301\u003e\u003csnd:Greeting\u003eA Gleeok is a horrible creature that flaps\nacross the sky using huge wings.\n\nThe thing has three heads, which gives it\nthree times the terror. It lords over the\nsky from the top of Gerudo Canyon.\n\u003csp:3:0:2:0a01\u003e\u003csnd:Ease_00\u003eBut there\u0027s no way I can get the innards\nof a creature that flies through the sky.",
+  "Comment_08": "\u003csp:3:0:2:0a01\u003e\u003csnd:TalkPositive\u003eMy husband suffers and suffers. \u003csp:5:0:0\u003eI need to\nget some Gleeok guts before long.",
+  "Greeting_01": "\u003csp:3:0:2:0a01\u003e\u003csnd:TalkPositive\u003eMy husband has terrible dreams without\nend. I cannot imagine how hard this must\nbe for him.",
+  "Comment_09": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_01\u003eI\u0027m grateful to you for saving my true\nlove, from the bottom of my heart.\n\nPlease, I want you to take this.",
+  "Greeting_02": "\u003csp:3:0:2:0a01\u003e\u003csnd:TalkPositive\u003eI have not been able to sleep, watching\nas my husband suffers.",
+  "Comment_Patient_00": "\u003csp:3:0:2:0001\u003e\u003csnd:Unconscious\u003eIt...hurts...",
+  "Balloon_00": "What can I do?",
+  "Comment_00": "\u003csp:3:0:2:0301\u003e\u003csnd:TalkPositive_00\u003eAs you can see, my husband is too sick to\nmove. \u003csp:5:0:0\u003eI am caring for him here.\n\nThis is my fault. I wanted the two of us\nto have a wedding adventure. That has\nnow proved to be unwise.\n\u003csp:3:0:2:0301\u003e\u003csnd:Ease_00\u003eHe has a weak constitution by nature...\nOnce before, he collapsed from illness.\nA kind traveler helped me treat him then.\n\u003csp:3:0:2:0a01\u003eI have since pushed myself to know the\nways of medicine. It was only a matter of\ntime before he would need more help.\nThe return of my husband\u0027s illness is...\u003csp:5:1:0\u003e\nmy fault.\u003csp:5:1:0\u003e But I know what it will take to\nheal him this time.\nA medicine made from Gleeok guts.",
+  "Balloon_01": "I must make the medicine!",
+  "Comment_Patient_02": "\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_00\u003eUnbelievable! All of my agony, just gone!\nI\u0027ve been saved, thanks to the medicine\nmy wife made out of Gleeok guts.\nAnd, of course, to you!",
+  "Comment_01": "\u003csp:3:0:2:0a01\u003eMy husband collapsed all because I\ninsisted we go on a wedding adventure.\nI should not have pushed for it.\nIf I had Gleeok guts, I could save him...",
+  "0000": "Here, have this.",
+  "Comment_Patient_03": "\u003csp:3:0:2:0001\u003e\u003csnd:Tired_00\u003eUgh... Nooo...",
+  "Balloon_Patient_00": "Ngh...",
+  "0001": "What\u0027s a Gleeok?",
+  "Comment_02": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseM_00\u003eC-could this be? Gleeok guts?! How\ndid you...\n\n\u003csp:3:0:2:0701\u003eNo, there is no time for that. Forgive\nme if I go right to making my medicine.\nI know I can save him with it.\n\u003csp:3:0:2:0801\u003e\u003csnd:Happy_00\u003eSarqso!",
+  "0002": "Goodbye.",
+  "Comment_03": "\u003csp:3:0:2:0101\u003e\u003csnd:LaughS_01\u003eHe\u0027s recovered fully, all because of you!"
+}

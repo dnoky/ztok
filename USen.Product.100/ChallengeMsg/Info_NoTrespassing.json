@@ -1,0 +1,6 @@
+{
+  "Name": "None Shall Pass?",
+  "Carry": "You located what looks like a shrine inside the\nforest. Perhaps this was the place Zooki was\ntalking about. It seems that you can enter the\nShrine of Light if you offer up a crystal.\n\nFollow the ray of light, and offer up the crystal\nat the shrine.",
+  "Step01": "According to Zooki, he once went deep into the\nforest and found something similar to a shrine.\nBut now there are lots of monsters about, so\nhe\u0027s keeping watch to prevent Koroks from\ngoing there.\n\nSince you\u0027re not a Korok, though, it should\nbe fine to enter.",
+  "Complete": "You offered up the crystal that came from the\nStone Talus, and a Shrine of Light appeared.\n\nEnter the shrine in order to acquire the\nLight of Blessing."
+}

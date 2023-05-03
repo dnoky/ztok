@@ -1,0 +1,16 @@
+{
+  "0003": "Indeed.",
+  "talk_1010": "\u003csp:3:0:2:0700\u003e\u003csnd:LaughS_00\u003eHaha, it\u0027s natural that you wouldn\u0027t\nunderstand... If anything, I\u0027d rather\nyou DIDN\u0027T understand.",
+  "talk_1011": "\u003csp:3:0:2:0000\u003e\u003csnd:QuestionNormal_00\u003eWhat do you mean, \"indeed\"?\u003csp:5:0:0\u003e There\u0027s\nno way you understand! You, you...\nintellectual charlatan!",
+  "talk_1041": "\u003csp:3:0:2:0c00\u003eSo it seems like...\u003csp:0:4:0\u003eThat bit moves this way and does that,\u003csp:5:1:0\u003e\nand this one comes over here like so,\nthen suddenly that does this.\n\u003csp:3:0:2:0000\u003eOr so it seems, at least... You know what\nI mean?",
+  "talk_1012": "\u003csp:3:0:2:0000\u003e\u003csnd:Sad_00\u003eFalling for it again, are you? You really\nare a fool.",
+  "talk_1021": "\u003csp:3:0:2:0900\u003eMaster Kohga! I shall purge the world of\nthis meddlesome nuisance!\u003csp:1:3:4:5a000000\u003e",
+  "near_0000": "So if that does that, then...",
+  "talk_1000": "\u003csp:3:0:2:0c00\u003eIf that goes like this, then this happens.\nBut then that has to be like this or else...\n\nUgh, I don\u0027t get it at all...\n\n\n\u003csp:3:0:2:0000\u003eDo you get it?",
+  "0000": "Nope.",
+  "talk_1030": "\u003csp:3:0:2:0900\u003eCuriosity killed the swordsman!\u003csp:1:3:4:5a000000\u003e",
+  "0001": "I get it.",
+  "talk_1002": "\u003csp:3:0:2:0700\u003eThat\u0027s an awfully fresh outfit... A newbie,\nI take it? I understand wanting to show\noff your duds, but...\nwe DO work in secret, you know. Keep\nmaking such amateur mistakes, and\nI won\u0027t help you if Link attacks.",
+  "0002": "I\u0027m stumped.",
+  "talk_1003": "\u003csp:3:0:2:0700\u003eI understand wanting to show off the new\noutfit, but we work in secret.\n\nIf you don\u0027t keep that in mind, I won\u0027t lift\na finger to help you if Link attacks."
+}

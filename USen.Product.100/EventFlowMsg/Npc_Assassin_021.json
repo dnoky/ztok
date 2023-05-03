@@ -1,0 +1,17 @@
+{
+  "talk_1010": "\u003csp:3:0:2:0700\u003eHey there!\u003csp:0:4:0\u003eThis place is an old abandoned mine.\nWay back when, they used to refine all\nsorts of stuff here.\u003csp:5:0:0\u003e\n\u003csp:3:0:2:0800\u003e\u003csnd:Happy_00\u003eThings like these cool, super rare\n\"crystallized charges.\" And you can still\nfind \u0027em around these parts!\u003csp:5:0:0\u003e\nTake a look—doesn\u0027t it feel like there\u0027s\nsomething hidden inside them?\u003csp:5:0:0\u003e\u003csp:0:4:0\u003eMy friends are the ones who told me\nabout these crystals, so I\u0027m trying to lug\na few back for \u0027em.\u003csp:5:0:0\u003e",
+  "talk_1011": "\u003csp:3:0:2:0400\u003e\u003csnd:QuestionNormal_00\u003eHm?\u003csp:5:0:0\u003e Who are my friends, you ask?\u003csp:5:0:0\u003e\nWhy, that\u0027s obvious!",
+  "talk_1040": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy_01\u003eOh, did you come to help me out?\u003csp:5:0:0\u003e\u003csp:0:4:0\u003e\u003csp:3:0:2:0300\u003eI hate to tell you after you came all the\nway down here, but I\u0027m done already.\u003csp:5:0:0\u003e\nAbandoned-mine duties complete!\u003csp:0:4:0\u003e\u003csp:3:0:2:0700\u003eBut I bet some of our friends in the other\nabandoned mines could use a hand!",
+  "talk_1012": "\u003csp:3:0:2:0700\u003eThe rest of the Yiga Clan!",
+  "talk_1041": "\u003csp:3:0:2:0700\u003eSeriously, we\u0027re all good here.\u003csp:5:0:0\u003e Don\u0027t be\nshy about heading out!\u003csp:0:4:0\u003eI\u0027ve also got some friends lying in wait\nin case you-know-who shows up!",
+  "talk_1020": "\u003csp:3:0:2:0900\u003e\u003csp:0:2:2:7d00\u003eEveryone, attack! He\u0027s here!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1021": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0900\u003eWe will have our vengeance!\u003csp:1:3:4:5a000000\u003e\u003csp:0:2:2:6400\u003e",
+  "near_0000": "Worked up quite a sweat!",
+  "talk_1000": "\u003csp:3:0:2:0800\u003eAll right, that should be far enough.",
+  "talk_1001": "\u003csp:3:0:2:0800\u003eThere. That should do it.",
+  "0000": "What\u0027s up?",
+  "talk_1030": "\u003csp:3:0:2:0c00\u003eI moved the crystals I took from here...\u003csp:5:0:0\u003e\nand I left behind some notes about some\nthings that caught my eye.\u003csp:5:0:0\u003e",
+  "0001": "I\u0027ll leave you alone.",
+  "talk_1031": "\u003csp:3:0:2:0c01\u003eNow there\u0027s just one thing left to do...",
+  "talk_1032": "\u003csp:3:0:2:0700\u003ePut an end to this blasted hero!"
+}

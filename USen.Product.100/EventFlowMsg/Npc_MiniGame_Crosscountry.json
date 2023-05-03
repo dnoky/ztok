@@ -1,0 +1,23 @@
+{
+  "SavedLv1_01": "\u003csp:3:0:2:0800\u003eHey! \u003csp:5:0:0\u003eThanks for the rescue!",
+  "EnokidaSignboard": "Won\u0027t forget this soon...",
+  "Near_0000": "This is ridiculous...",
+  "ComNakedCheck_W_001": "\u003csp:3:0:2:0400\u003e\u003csnd:Notice\u003eNope, nope, nope.\u003csp:5:1:0\u003e Don\u0027t you come talk to\nme looking like that. I can\u0027t be seen with\nsomeone who cares so little for clothing.\nI\u0027m not saying you have to dress fancy,\nbut at least put on a shirt or some\ntrousers, you know?",
+  "NakedPlayer": "At least get dressed.",
+  "Failed00": "\u003csp:3:0:2:0a00\u003eHey... \u003csp:5:0:0\u003eSuperstar?\u003csp:5:0:0\u003e Give me a break here...",
+  "Talk_0001": "\u003csp:3:0:2:0b00\u003eLook, I\u0027m sorry, OK? I\u0027ll make your little\nuniforms without any more complaints,\nI swear!\nHold up...\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eHey...\u003csp:5:0:0\u003ehey, superstar. You\u0027re not with the\nYiga Clan, are you?\n\nPlease tell me you\u0027re here to rescue me.",
+  "SavedLv3_00": "\u003csp:3:0:2:0800\u003eThat was amazing! \u003csp:5:0:0\u003eLook, I call a lot of\npeople \"superstar,\" but you really earn it!\u003csp:5:0:0\u003e\nThank you!",
+  "Failed01": "\u003csp:3:0:2:0a00\u003eThat...\u003csp:5:0:0\u003edid not go well...\u003csp:5:0:0\u003e Yikes.",
+  "Guardian00": "\u003csp:3:0:2:0b01\u003e\u003csnd:Scare\u003eH-hey...\u003csp:5:0:0\u003esuperstar?\u003csp:5:0:0\u003e What IS that thing?\nShould we be running?",
+  "Talk_0002": "\u003csp:3:0:2:0800\u003eThat\u0027s—\u003csp:5:0:0\u003e That\u0027s fantastic! Ugh, I\u0027ve been\ncooped up in here forever.\n\n\u003csp:3:0:2:0701\u003eThe name\u0027s Konba.\n\n\nI\u0027ve got a knack for style and the nimble\ndigits I need to spin my ideas into reality.\n\nAlas, that pure talent is why the Yiga Clan\nkidnapped me and forced me to make\ntheir outfits for them.\n\u003csp:3:0:2:0a00\u003eIf I ever sew one of those tacky rags\nagain, it\u0027ll be too soon.\u003csp:5:1:0\u003e\n\n\u003csp:3:0:2:0100\u003eIn fact, you should take the \u003cclr:0000\u003eYiga armor\u003cclr:ffff\u003e\nI just finished. Burn it, toss it, do what\nyou want. Just get it away from me.",
+  "SavedLv3_01": "\u003csp:3:0:2:0800\u003eYeah! \u003csp:5:0:0\u003eTalk about an amazing save,\nsuperstar!\u003csp:5:0:0\u003e You\u0027re the best!",
+  "Atacked00": "\u003csp:3:0:2:0401\u003e\u003csnd:Scare\u003eHey! \u003csp:5:0:0\u003eHey, superstar! \u003csp:5:0:0\u003eI\u0027m begging you\nhere, you gotta help me!",
+  "SagonoHat": "So on trend...",
+  "Talk_0003": "\u003csp:3:0:2:0800\u003eThe look may lack, but my tailoring is\nsublime. If you \u003cclr:0000\u003ewore the whole set\u003cclr:ffff\u003e, you\u0027d\nfit right in with the Yiga Clan.\n\u003csp:3:0:2:0701\u003eOn that note, I gotta hurry out of here\nbefore they get back.\n\nDon\u0027t worry, I\u0027m more athletic than I look.\nThey only caught me last time because I\nmessed up. It won\u0027t happen again.\n\u003csp:3:0:2:0800\u003eSee you round, and thanks for the save! ",
+  "SavedLv2_00": "\u003csp:3:0:2:0101\u003e\u003csnd:Ease\u003eMan, things nearly got ugly there!\u003csp:5:0:0\u003e Many\nthanks for the save, superstar!",
+  "Atacked01": "\u003csp:3:0:2:0401\u003e\u003csnd:Scare\u003eHey, uh...\u003csp:5:0:0\u003esuperstar?\u003csp:5:0:0\u003e You wanna maybe do\nsomething about these monsters? Quick?",
+  "Talk_0004": "\u003csp:3:0:2:0400\u003e\u003csnd:Notice\u003eHold on.\u003csp:5:1:0\u003e Your pouch is full.\u003csp:0:4:0\u003eWell, I\u0027ll just put this in a box so the Yiga\nClan won\u0027t find it. You can come back and\nget it once you\u0027ve made room.",
+  "SavedLv2_01": "\u003csp:3:0:2:0800\u003eYeesh, that was more than a little too\nclose.\u003csp:5:0:0\u003e Thanks for the superstar save!",
+  "SavedLv1_00": "\u003csp:3:0:2:0800\u003eHey! \u003csp:5:0:0\u003eThanks for the save, superstar!",
+  "Thanks00": "\u003csp:3:0:2:0801\u003eAaanyway, \u003csp:5:0:0\u003ehere\u0027s a stylish little gift from\nme to my new best buddy!"
+}

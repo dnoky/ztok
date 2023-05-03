@@ -1,0 +1,14 @@
+{
+  "Talk_09": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting_00\u003eFancy seeing you here again.\u003csp:5:0:0\u003e Hello, hello!",
+  "Talk_11": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting_01\u003eWe meet again!\u003csp:5:0:0\u003e Look at you, working so\nhard in this rainy weather!",
+  "Talk_27": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy\u003eThat\u0027s more like it.\u003csp:5:0:0\u003e Now you have room\nfor this!",
+  "NakedPlayer": "Just wearing that today?",
+  "Talk_30": "\u003csp:3:0:2:0c00\u003e\u003csnd:Notice_00\u003eHuh?\u003csp:5:0:0\u003e Did you come out to see the\nSkyview Tower?",
+  "Talk_12": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting_01\u003eHello again!\u003csp:5:0:0\u003e And good evening!",
+  "Talk_21": "\u003csp:3:0:2:0700\u003e\u003csnd:Notice_00\u003eAha! You\u0027ve come to this Skyview Tower\ntoo?\u003csp:5:0:0\u003e Pretty late to be working so hard,\nand in rainy weather on top of it!",
+  "Talk_28": "\u003csp:3:0:2:0b01\u003eHuh?\u003csp:5:1:0\u003e Your bag is stuffed full!",
+  "Enokida": "Good work!",
+  "Talk_08": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting_01\u003eWe meet again.\u003csp:5:0:0\u003e Good morning!",
+  "Talk_10": "\u003csp:3:0:2:0700\u003e\u003csnd:Notice_00\u003eHello there.\u003csp:5:0:0\u003e So you came to see the \nSkyview Tower too?\u003csp:5:0:0\u003e It\u0027s a bit late to be\nworking, isn\u0027t it?",
+  "Talk_26": "\u003csp:3:0:2:0301\u003e\u003csnd:Sad\u003eHow am I supposed to give you this dish?\u003csp:5:0:0\u003e\nGet your bag in order, will ya?"
+}

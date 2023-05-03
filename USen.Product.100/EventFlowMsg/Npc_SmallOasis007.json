@@ -1,0 +1,14 @@
+{
+  "Talk_09": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive\u003eOh, Link! What brings you here? I thought\nyou\u0027d be having dinner right about now.",
+  "Talk_11": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive\u003eOh, Link! What brings you to a place\nlike this?",
+  "Talk_02": "\u003csp:3:0:2:0700\u003eI\u0027m standing guard\u003csp:5:0:0\u003e to keep any thieves\nfrom stealing the valuable \u003cclr:0000\u003etreasure\u003cclr:ffff\u003e and\n\u003cclr:0000\u003eweapons\u003cclr:ffff\u003e inside the castle.\n\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eTrust me, I\u0027ve got this handled. \u003csp:5:0:0\u003eYou don\u0027t\nneed to worry about a thing!\n\nOh, but since you\u0027re from the castle,\u003csp:5:0:0\u003e\nyou\u0027re more than welcome to go inside.\n\n\u003csp:3:0:2:0700\u003e\u003csnd:Think_00\u003eJust be careful. \u003csp:5:0:0\u003eI\u0027ve heard that there are\nmonsters running around in there...",
+  "Talk_06": "\u003csp:3:0:2:0700\u003e\u003csnd:Ease\u003eI got all turned around again... This place\nis a maze...\u003csp:5:1:0\u003e Hm?",
+  "Talk_00": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting_01\u003eOh, Link,\u003csp:5:0:0\u003e right? \u003csp:5:1:0\u003eSorry about that, I didn\u0027t\nsee you there.\n\nI\u0027m Nobiro.\n\n\nThere\u0027s still a bunch of valuable \u003cclr:0000\u003etreasure\u003cclr:ffff\u003e\nand \u003cclr:0000\u003eweapons\u003cclr:ffff\u003e inside the castle, so they\nasked me to guard the place from thieves.\n\u003csp:3:0:2:0a00\u003eBut I\u0027m a little lost...\u003csp:5:1:0\u003e\n\n\n\u003csp:3:0:2:0700\u003eOh, but don\u0027t you worry about me! Go\nright ahead.\u003csp:5:1:0\u003e I mean, you are from the\ncastle after all, so...\u003csp:5:0:0\u003eyeah!",
+  "Talk_07": "\u003csp:3:0:2:0701\u003eWait, \u003csp:5:0:0\u003edid you come to keep watch for\nthieves trying to steal the \u003cclr:0000\u003etreasure\u003cclr:ffff\u003e from\nHyrule Castle?\n\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eIf that\u0027s the case, I\u0027ve got it handled.\u003csp:5:0:0\u003e\nDon\u0027t you worry about a thing!",
+  "TerrorSword": "Please, stop!",
+  "TerrorArrow": "What\u0027s the matter?!",
+  "Talk": "\u003csp:3:0:2:0700\u003e\u003csnd:Think_00\u003eSo this is the inside of Hyrule Castle...\nIt\u0027s practically a maze. \u003csp:5:1:0\u003eHm?",
+  "Talk_01": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive\u003eOh, Link! What brings you here so bright\nand early?",
+  "Talk_08": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive\u003eOh, Link! Fancy seeing you here this time\nof day.",
+  "Talk_10": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive\u003eOh, Link! What brings you here when it\u0027s\nall dark and scary out?"
+}

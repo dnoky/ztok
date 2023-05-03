@@ -1,0 +1,8 @@
+{
+  "Near": "Adventure!",
+  "talk_01": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal_00\u003eYou\u0027ve come to dig up adventure\ntoo, huh?",
+  "talk_02": "\u003csp:3:0:2:0700\u003e\u003csnd:Unconscious_00\u003eI told ya.\u003csp:5:0:0\u003e If you wanna\u003csp:5:0:0\u003e use the mine cart,\n\u003csp:5:0:0\u003eit\u0027s all yours.\u003csp:5:0:0\u003e Just take it, \u003csp:5:0:0\u003eman.\n\nBut \u003csp:5:0:0\u003ethis mine cart \u003csp:5:0:0\u003eonly goes \u003csp:5:0:0\u003eto the \u003cclr:0000\u003esummit\u003cclr:ffff\u003e\n\u003csp:5:0:0\u003eof \u003cclr:0000\u003eDeath Mountain\u003cclr:ffff\u003e,\u003csp:5:0:0\u003e you know.\u003csp:5:0:0\u003e",
+  "talk_03": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy_01\u003eSee those boulders over there? It\u0027ll be a\nminute before they\u0027re done. You can\u0027t\nrush adventure digging.",
+  "talk_04": "\u003csp:0:2:2:5000\u003e\u003csp:3:0:2:0000\u003eJust between you and me, I\u0027ve heard tell of an\nancient Goron dwelling not far from here.\n\u003csp:3:0:2:0801\u003eDeath Mountain is all about adventure!\u003csp:0:2:2:6400\u003e",
+  "talk_00": "\u003csp:3:0:2:0700\u003e\u003csnd:Unconscious_01\u003eCan\u0027t you see \u003csp:5:0:0\u003eI\u0027m busy here?\u003csp:5:0:0\u003e My mouth\n\u003csp:5:0:0\u003e\u0027n\u0027 me\u003csp:5:0:0\u003e are kinda\u003csp:5:0:0\u003e occupied.\u003csp:5:0:0\u003e\n\nIf you wanna\u003csp:5:0:0\u003e use the mine cart, knock\nyourself \u003csp:5:0:0\u003eout.\n\nBut \u003csp:5:0:0\u003ethis mine cart \u003csp:5:0:0\u003eonly goes \u003csp:5:0:0\u003eto the \u003cclr:0000\u003esummit\u003cclr:ffff\u003e\n\u003csp:5:0:0\u003eof \u003cclr:0000\u003eDeath Mountain\u003cclr:ffff\u003e,\u003csp:5:0:0\u003e you know.\u003csp:5:0:0\u003e"
+}

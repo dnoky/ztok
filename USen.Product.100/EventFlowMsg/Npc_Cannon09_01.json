@@ -1,0 +1,15 @@
+{
+  "Talk_11": "\u003csp:3:0:2:0c01\u003e\u003csnd:Think\u003eI obviously can\u0027t fix the Skyview Tower.\nWish I knew of some way to get to\nthe top...",
+  "Near_01": "I\u0027ve gone up...",
+  "Talk_03": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_01\u003eAre you the one who got the elevator\nworking?\u003csp:5:0:0\u003e You\u0027re amazing!\n\n\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0801\u003e\u003csp:0:2:2:6400\u003eI\u0027ll get to work fixing the Skyview Tower\nright away.",
+  "Talk_19": "\u003csp:3:0:2:0b00\u003eAaah! Dangerous!",
+  "Talk_04": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_01\u003eAre you the one who got the elevator\nworking?\u003csp:5:0:0\u003e I came to fix the terminal in the\nSkyview Tower here but got stuck below.\n\u003csp:3:0:2:0801\u003eAnyway, I\u0027ll get to repairing the tower\nright away!",
+  "Talk_13": "\u003csnd:Think_00\u003eUh-oh.\u003csp:5:1:0\u003e The drive-assembly mechanism is\nstuck, probably from all the hot, hot hours\nof the day here.\nBut if I swap out those parts for\nheat-resistant ones...\u003csp:5:1:0\u003e Yes!\u003csp:5:0:0\u003e It worked!",
+  "Talk_05": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_00\u003eThanks to you, I could fix the Skyview\nTower!\u003csp:5:1:0\u003e Please, take this for your trouble.",
+  "Talk_06": "\u003csp:3:0:2:0701\u003eI hate to break it to you, but the Skyview\nTower is out of order.\u003csp:5:1:0\u003e\n\n\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_00\u003eI\u0027m here to fix it, but unfortunately, the\nelevator is broken too!\u003csp:5:0:0\u003e I can\u0027t get up to\nthe tower to make the repairs.",
+  "Talk_07": "\u003csp:3:0:2:0c01\u003e\u003csnd:TalkPositive_01\u003eDo you see the metal bit up there?\n\n\n\u003csp:3:0:2:0701\u003eThere used to be a platform attached to\nthat. If you added enough weight, it\u0027d go\ndown...\u003csp:5:0:0\u003eand I\u0027d go up.\n\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_01\u003eBut the platform is gone. There\u0027s nothing\nattached to that metal bit, so I\u0027m stuck\ndown here.",
+  "Talk_16": "\u003csp:3:0:2:0c01\u003e\u003csnd:Think\u003eThere used to be a platform attached to\nthe metal bit up there.\u003csp:5:0:0\u003e You could \u003cclr:0000\u003eput\nweight on it to make this platform move\u003cclr:ffff\u003e.\n\u003csp:3:0:2:0a01\u003eBut the other platform is gone. \u003csp:5:1:0\u003eI\u0027m\nthinking of just giving up for now and\ncoming back another time.",
+  "Near_00": "Uh-oh...",
+  "Talk_08": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_00\u003eIf you\u0027re heading to the desert, \u003csp:5:1:0\u003emake sure\nto protect yourself from the heat. It can\nget dangerous out there.",
+  "Talk_17": "\u003csp:3:0:2:0801\u003e\u003csnd:TalkPositive_01\u003eSometimes there\u0027s just no avoiding the\nheat.\u003csp:5:0:0\u003e When that happens, a meal that\u0027ll\ncool you down should come in handy."
+}

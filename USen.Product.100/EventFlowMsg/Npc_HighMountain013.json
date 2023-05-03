@@ -1,0 +1,11 @@
+{
+  "talk04_01": "\u003csp:3:0:2:0700\u003e\u003csnd:Admiration_00\u003eHm, well! \u003csp:5:1:0\u003e I wasn\u0027t expecting to run into a\nHylian out here.\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eI\u0027m observing the clouds and the winds\nin hopes of learning the cause of this\nblasted blizzard.\n\u003csp:3:0:2:0501\u003e\u003csnd:Think_00\u003eI could probably learn more from a higher\nvantage. Unfortunately, flying isn\u0027t an\noption. The gales are too strong for it.",
+  "talk05_02": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_00\u003eSay, thanks for helping me before!\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eThose flying monsters really had it out\nfor me. Without you there, I could never\nhave gotten those supplies to the village.\nNow I\u0027m helping Bedoli sort and give out\nall the supplies we collected.\u003csp:0:4:0\u003e\u003csp:3:0:2:0101\u003e\u003csnd:Understand_00\u003eWe owe you a big debt of gratitude.\nReally we do.",
+  "talk04_03": "\u003csp:3:0:2:0c00\u003e\u003csnd:Trouble\u003eIf we want to learn what\u0027s causing this\nblizzard, we\u0027ll need a view from up high.\u003csp:0:4:0\u003e\u003csp:3:0:2:0501\u003eUnfortunately, with such strong gales,\nflying isn\u0027t an option. I\u0027m stuck observing\nfrom ground level.",
+  "TerrorArrow_00": "I\u0027m not a monster!",
+  "Near11": "This is hard work too.",
+  "talk05_05": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive\u003eWith your help, and now that the blizzard\nis over, I delivered the supplies to the\nvillage. They ought to hold us for a while.\n\u003csp:3:0:2:0101\u003eYou really came through. I owe you a debt\nof gratitude.",
+  "TerrorArrow_01": "Don\u0027t point that at me!",
+  "talk05_06": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_00\u003eHeya! Glad you\u0027re here! The village has\nsettled down quite a bit, eh?",
+  "TerrorArrow_02": "Hey... Easy now..."
+}

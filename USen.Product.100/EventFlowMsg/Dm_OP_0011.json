@@ -1,0 +1,20 @@
+{
+  "Dm_OP_0011_Text_002_b": "I believe this light will restore an ability\nyour right arm has lost.",
+  "Dm_OP_0011_Text_019_b": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_00\u003eUse Fuse, and receive the blessing from\nthis shrine.",
+  "Dm_OP_0011_Text_000_b": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting_00\u003eSo you\u0027ve made it here.",
+  "Dm_OP_0011_Text_017_b": "Why not pick up that sword just ahead\nand then fuse a nearby object to it?",
+  "Dm_OP_0011_Text_015_b": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_01\u003eThis is the Fuse ability.",
+  "Dm_OP_0011_Text_007_b": "With it, you will be able to build a great\nnumber of things. Really, anything you\ncan imagine.",
+  "Dm_OP_0011_Text_013_b": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_00\u003eUse Ascend, and receive the blessing\nfrom this shrine.",
+  "Dm_OP_0011_Text_005_b": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_01\u003eThis is the Ultrahand ability.",
+  "Dm_OP_0011_Text_011_b": "It lets you travel through what\u0027s directly\nabove you—to ascend through it and\nemerge on top of it.",
+  "Dm_OP_0011_Text_003_b": "\u003csp:3:0:2:0000\u003e\u003csnd:Nostalgia_05\u003eNow then, extend your hand.",
+  "Dm_OP_0011_Text_001_b": "This is a Shrine of Light. Long ago, I filled\nthese places with light that purges evil.",
+  "Dm_OP_0011_Text_017_b_00": "Why not use the sword you picked up\nearlier? You can enhance the blade by\nfusing a nearby object to it.",
+  "Dm_OP_0011_Text_003_b_00": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting_00\u003eSo you\u0027ve made it here. Now then, extend\nyour right hand.",
+  "Dm_OP_0011_Text_016_b": "It allows you to fuse something nearby\nto your weapon or shield, thereby\nenhancing it.",
+  "Dm_OP_0011_Text_008_b": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_00\u003eUse Ultrahand, and receive the blessing\nfrom this shrine.",
+  "Dm_OP_0011_Text_006_b": "It allows you to move objects freely and\nattach them to other objects.",
+  "Dm_OP_0011_Text_012_b": "You\u0027ll find it quite useful in all sorts of\nplaces and situations.",
+  "Dm_OP_0011_Text_010_b": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_01\u003eThis is the Ascend ability."
+}

@@ -1,0 +1,19 @@
+{
+  "Greeting_Evening": "\u003csp:3:0:2:0701\u003e\u003csnd:Greeting\u003e...Good evening.\u003csp:0:4:0\u003ePardon me. I was a bit absorbed in\nmy thoughts.",
+  "Talk_01": "\u003csp:3:0:2:0700\u003eThis relic is a special device. It has some\ngreat purpose, as yet unknown to me.\n\n\u003csp:3:0:2:0501\u003eI have to find it out before the researchers\neast in Kakariko Village or northeast in\nTarrey Town beat me to the punch.\nI want to be known as the one who\nunraveled this mystery!",
+  "Moving_Mornig": "\u003csp:3:0:2:0700\u003eApologies, but I\u0027m headed to my post.\nCan we talk later?",
+  "Talk_02": "\u003csp:3:0:2:0700\u003eBy the bridge up ahead, there\u0027s a strange\nspherical relic I have been studying. But\nit\u0027s not the only one of its kind.\nSimilar relics have been sighted in two\nother places—\u003csp:5:0:0\u003eKakariko Village in the east\nand Tarrey Town to the northeast.\n\u003csp:3:0:2:0c00\u003ePerhaps I should try studying each of\nthem to see if they have any common\nfeatures.",
+  "Talk_03": "\u003csp:3:0:2:0700\u003eResearchers in Kakariko Village to the\neast and Tarrey Town to the northeast\nare also studying the spherical relics.\nWell! I\u0027m dead set on figuring out their\nsecrets before they do.",
+  "Moving_Rain": "\u003csp:3:0:2:0700\u003eApologies, but I\u0027d like to shelter from this\nrain over in the tent. Can this wait?",
+  "Greeting_Noon": "\u003csp:3:0:2:0701\u003e\u003csnd:Greeting\u003e...Good day.",
+  "Talk_04": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseS\u003eYou did it! You got it to work!\u003csp:0:4:0\u003eHow did you—\u003csp:5:0:0\u003e Wait, don\u0027t tell me.\nLet me figure it out.",
+  "Talk_05": "\u003csp:3:0:2:0701\u003e\u003csnd:Think\u003eSo, if you put something on that dish,\nit gets sucked in...",
+  "Balloon_Evening": "Are they all...similar?",
+  "Talk_06": "\u003csp:3:0:2:0700\u003e\u003csnd:Think\u003eHow in the world did you get that thing\nout of there?\u003csp:0:4:0\u003eActually, don\u0027t tell me. I want to work it\nout for myself.",
+  "Talk_08": "\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_00\u003eOh... Just a dream.\n\n\n\u003csp:3:0:2:0300\u003eI\u0027ve been researching the spherical relic\nup ahead near the suspension bridges.\n\nBut other researchers are studying similar\nsites in Kakariko Village to the east and\nTarrey Town to the northeast.\n\u003csp:3:0:2:0a01\u003eI want to solve the relic riddles before\nthey do, but there\u0027s so much work left...\u003csp:5:1:0\u003e\nThe urgency makes it hard to sleep.",
+  "Talk_09": "\u003csp:3:0:2:0700\u003eAll I can think about are those spherical\nrelics. They\u0027ve even started to make\nappearances in my dreams.\nI don\u0027t want to lose out to those\nresearchers in Kakariko Village to the\neast or Tarrey Town to the northeast.\n\u003csp:3:0:2:0a01\u003eBut I\u0027m so sleepy...\u003csp:5:1:0\u003e",
+  "Balloon_Day": "Is it some kind of device?",
+  "Greeting_Morning": "\u003csp:3:0:2:0701\u003e\u003csnd:Greeting\u003e...Good morning.",
+  "Talk_00": "\u003csp:3:0:2:0c00\u003eWhat an unusual relic. And look... \u003csp:5:1:0\u003eThere\u0027s\nsomething inside.\n\nI believe this device is meant for some\nspecial purpose, but as for what that\nmay be, who knows?\n\u003csp:3:0:2:0700\u003eSimilar devices have been found in\nKakariko Village to the east and Tarrey\nTown to the northeast.\nI want to unlock this gizmo\u0027s secrets\nbefore the researchers in those other\nplaces do. I must!",
+  "Moving_Evening": "\u003csp:3:0:2:0700\u003eApologies, but I was just on my way back\nto the tent. Can we pick this up later?"
+}

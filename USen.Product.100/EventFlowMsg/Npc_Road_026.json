@@ -1,0 +1,19 @@
+{
+  "SavedLv1_01": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eDear me, was that dire! You saved my life!",
+  "EnokidaSignboard": "Hudson Construction?",
+  "Failed00": "\u003csp:3:0:2:0300\u003e\u003csnd:Tired_00\u003ePhew...\u003csp:5:0:0\u003e They took a chunk out of me...\n\n\nA doctor I may be, but it\u0027s difficult to\ntreat one\u0027s own wounds.",
+  "Talk_0001": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_01\u003eAre you here because you saw that\ncall for applications in the newspaper?\u003csp:5:0:0\u003e\nYou better make sure you\u0027re prepared.\n\u003csp:3:0:2:0a00\u003e\u003csnd:Sad_01\u003eSo far, every single applicant has been\nturned down...\u003csp:5:0:0\u003eincluding yours truly.\u003csp:0:4:0\u003eIf anyone out there could win the favor\nof the brilliant, young mind that\u0027s running\nthe project, I\u0027d really like to meet them.",
+  "SavedLv3_00": "\u003csp:3:0:2:0800\u003eYou\u0027re...\u003csp:5:0:0\u003estrong. Thanks for the rescue.",
+  "Failed01": "\u003csp:3:0:2:0a00\u003eOww...\u003csp:5:0:0\u003e I can\u0027t stay here. I need to find\nsomewhere to rest...",
+  "Guardian00": "\u003csp:3:0:2:0b00\u003e\u003csnd:Scare\u003eWhatever that is, it\u0027s terrifying! \u003csp:5:0:0\u003eRun!\nRun for your life!",
+  "Talk_0002": "\u003csp:3:0:2:0700\u003eWell then. Guess I\u0027ll go back to my old job\nresearching the \u003cclr:0000\u003eZonai ruins\u003cclr:ffff\u003e.\u003csp:0:4:0\u003eIf you\u0027re here to interview as a \u003cclr:0000\u003eDepths\nexplorer\u003cclr:ffff\u003e, I\u0027d advise against getting your\nhopes up.\nThat Josha\u0027s standards are high!",
+  "SavedLv3_01": "\u003csp:3:0:2:0b00\u003eI\u0027m in awe. \u003csp:5:0:0\u003eHow did you do that?",
+  "Atacked00": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM\u003eYou came just in time.\u003csp:5:1:0\u003e I\u0027m sorry I couldn\u0027t\ndo it on my own.",
+  "Talk_0003": "\u003csp:3:0:2:0700\u003eAre you also here to interview for the\n\u003cclr:0000\u003einvestigation of the Depths\u003cclr:ffff\u003e? My advice—\nbring your very best.\nSo far, not one single applicant has made\nit through.\u003csp:0:4:0\u003eI know Josha is a prodigy, so she\u0027s\nprobably looking for an equally capable\nassistant. I wonder if she\u0027ll find one...",
+  "SavedLv2_00": "\u003csp:3:0:2:0700\u003e\u003cclr:0000\u003e\u003csnd:Ease\u003e\u003cclr:ffff\u003eMonsters know how to ruin a good walk...\u003csp:5:1:0\u003e\nAnyway, thank you for saving me!",
+  "Atacked01": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM\u003eThanks for your help, young man!\u003csp:5:0:0\u003e\nI\u0027m sorry to say, I didn\u0027t even bring\na weapon...",
+  "Talk_0004": "\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS_00\u003eOh, you\u0027re the fellow from the other day!\nLookout Landing continues to surprise.",
+  "SavedLv2_01": "\u003csp:3:0:2:0700\u003e\u003csnd:Ease\u003eSorry to trouble you... \u003csp:5:1:0\u003eAre you OK?\u003csp:5:1:0\u003e\nYou\u0027re not injured, are you?",
+  "SavedLv1_00": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting\u003ePhewww... And they say youths don\u0027t\nlook after their elders!",
+  "Thanks00": "\u003csp:3:0:2:0701\u003eHere. It\u0027s the least I owe you."
+}

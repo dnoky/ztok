@@ -1,0 +1,16 @@
+{
+  "Near01": "Sleepytime now...",
+  "Near02": "So sleepy...",
+  "Near03": "Working hard on arrows!",
+  "NpcTalk_001": "\u003csp:3:0:2:0d00\u003e\u003csnd:TalkPositive\u003eThe blizzard\u0027s got all the grown-ups\nworking real hard.\u003csp:0:4:0\u003eSo I\u0027m gonna work hard too! Gotta do\nmy part to help!",
+  "Near04": "Gonna make new arrows!",
+  "NpcTalk_002": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy_01\u003eThere\u0027s other kinds of \u003cclr:0000\u003efruits \u003cclr:ffff\u003ebesides \u003cclr:0000\u003eice\u003cclr:ffff\u003e.\nI\u0027ve heard about \u003cclr:0000\u003efire \u003cclr:ffff\u003eand \u003cclr:0000\u003eelectricity \u003cclr:ffff\u003eand\n\u003cclr:0000\u003ewater \u003cclr:ffff\u003efruits too!\u003csp:0:4:0\u003eIf I stick \u0027em on \u003cclr:0000\u003ethe tips of arrows\u003cclr:ffff\u003e, there\u0027s\n\u003cclr:0000\u003eall kinds of effects \u003cclr:ffff\u003eI can pull off.\u003csp:0:4:0\u003e\u003csp:3:0:2:0101\u003e\u003csnd:Happy_00\u003eThen maybe my dad might use my arrows\nwith his bows!",
+  "NpcTalk_003": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy_01\u003eThanks for helping me with the arrows!\nI\u0027ll keep coming up with ideas.",
+  "NpcTalk_010": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal_01\u003eMister...do you know anything about the\nwooden arrows I left on the desk? \u003csp:5:0:0\u003eHere\u0027s\nthe thing...",
+  "NpcTalk_011": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseS_00\u003eSo it was you, mister! \u003csp:5:1:0\u003eIf you need wooden\narrows, you just have to ask!",
+  "NpcTalk_006": "\u003csp:3:0:2:0a00\u003e\u003csnd:Think\u003eIt\u0027s so late... Dad gets crabby if I\u0027m up\npast my bedtime.\u003csp:0:4:0\u003eThe sooner I go to sleep, the sooner I can\nwake up and start making arrows again.",
+  "NpcTalk_012": "\u003csp:3:0:2:0001\u003eBut hear me out first, OK?",
+  "NpcTalk_007": "\u003csnd:Sleep\u003eZzz... Zzz...",
+  "NpcTalk_008": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseL_01\u003eAh! \u003csp:5:0:0\u003eThose are mine, mister!\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eHold on. \u003csp:5:1:0\u003eIs your problem that you don\u0027t\nhave enough wooden arrows?\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eThat\u0027s OK, then! I don\u0027t mind giving them\nto you. \u003csp:5:0:0\u003eBut hear me out first.",
+  "NpcTalk_009": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseL_01\u003eAh! \u003csp:5:0:0\u003eThose are mine, mister!\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eHold on. \u003csp:5:1:0\u003eIs your problem that you don\u0027t\nhave enough wooden arrows?\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eIt\u0027s important to help each other in times\nof need. That\u0027s what my papa says. So if\nyou want them, they\u0027re yours!"
+}

@@ -1,0 +1,21 @@
+{
+  "Talk_01": "\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_00\u003eMy apologies.\u003csp:5:1:0\u003e It looks like we have a\nsmall problem over here.",
+  "Talk_30": "\u003csp:3:0:2:0701\u003e\u003csnd:Greeting_00\u003eYep.\u003csp:5:0:0\u003e There are\u003cclr:0000\u003e caves at the bottom of\nthe hill\u003cclr:ffff\u003e.\n\nI used to go mushroom hunting in them\nall the time while we were building\nthe tower.",
+  "0010": "Caves?",
+  "Talk_19": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseM\u003eHuh?\u003csp:5:1:0\u003e How\u0027d you get inside?!",
+  "Talk_25": "\u003csp:3:0:2:0501\u003e\u003csnd:Greeting_00\u003eSay...\u003csp:5:0:0\u003esince you\u0027re inside, can you open\nthe door?\n\n\u003csp:3:0:2:0701\u003eIs there anything strange near it?",
+  "Talk_03": "\u003csp:3:0:2:0c01\u003e\u003csnd:Think_00\u003eThe door won\u0027t open.\u003csp:5:0:0\u003e I have no clue why.",
+  "Talk_26": "\u003csp:3:0:2:0801\u003e\u003csnd:SurpriseS_01\u003eWha?!\u003csp:5:0:0\u003e It opened!\n\n\n\u003csp:3:0:2:0101\u003eHow in the world did you manage to fix it?",
+  "Talk_04": "\u003csp:3:0:2:0a01\u003eThe door isn\u0027t locked,\u003csp:5:0:0\u003e but it won\u0027t budge,\nno matter how hard I push or pull.\n\n\u003csp:3:0:2:0801\u003eAh, of course I know it\u0027s a sliding door.\u003csp:5:1:0\u003e\nThat\u0027s what I meant. Obviously.",
+  "Talk_05": "\u003csp:3:0:2:0301\u003e\u003csnd:TalkPositive_01\u003eI heard that the terminal at this Skyview\nTower needed repairs,\u003csp:5:0:0\u003e so I came to fix\nit. But...",
+  "Talk_11": "\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_01\u003eMy apologies.\u003csp:5:1:0\u003e The door won\u0027t open for\nsome reason.",
+  "Talk_06": "\u003csp:3:0:2:0a01\u003e\u003csnd:Ease_01\u003e*sigh* \u003csp:5:0:0\u003eI worked up an appetite getting my\nbrain into gear for this. \u003csp:5:1:0\u003eI bet the \u003cclr:0000\u003enearby\ncaves\u003cclr:ffff\u003e would have some tasty mushrooms.",
+  "Talk_07": "\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_01\u003eOK,\u003csp:5:0:0\u003e goodbye.",
+  "Talk_13": "\u003csnd:Think_00\u003eThe mechanisms aren\u0027t working quite\nright.\u003csp:5:0:0\u003e I\u0027ll just give them a bit of oil...",
+  "Near_01": "How strange...",
+  "Talk_08": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseL_01\u003eWha?! \u003csp:5:0:0\u003eThe door opened?!\u003csp:0:2:2:6400\u003e\n\n\nCould it be... \u003csp:5:1:0\u003eDid you fix it for me?!",
+  "Talk_14": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_00\u003eTa-da!\u003csp:5:0:0\u003e\n\n\nIt wasn\u0027t a big problem,\u003csp:5:0:0\u003e so a little oil\ncleared it right up.\n\n\u003csp:3:0:2:0101\u003eRight. \u003csp:5:0:0\u003eI\u0027m going to hurry on ahead, so this\nis goodbye!",
+  "Talk_09": "\u003csp:3:0:2:0401\u003e\u003csnd:SurpriseS_00\u003eEh?!\u003csp:5:0:0\u003e I can\u0027t believe a couple of sticks\ncaused all this hassle.\n\n\u003csp:3:0:2:0c01\u003eI wonder if those were in there to begin\nwith and just fell over somehow...\u003csp:5:0:0\u003eor if\nsome monster did that on purpose.\u003csp:5:1:0\u003e\n\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_01\u003eEither way, that really helped!\u003csp:5:1:0\u003e Thank you.\n\n\n\u003csp:3:0:2:0701\u003eWell...",
+  "0001": "What\u0027s going on?",
+  "0002": "Goodbye."
+}

@@ -1,0 +1,18 @@
+{
+  "NewText_09": "\u003csp:3:0:2:0000\u003e\u003csnd:Think_01\u003eLady Riju is currently training—she is\ntrying to become strong enough to save\nus from this disaster.",
+  "NewText_15": "\u003csp:3:0:2:0300\u003eHowever, the attire you are wearing is...\u003csp:5:0:0\u003e\nnot acceptable. Please put on a bit more\nbefore coming into town.",
+  "NewText_00": "\u003csp:3:0:2:0001\u003e\u003csnd:Angry_00\u003e\u003csp:0:2:2:7d00\u003eVoe are not permitted to be here!\u003csp:0:2:2:6400\u003e",
+  "NewText_01": "\u003csnd:TalkPositive_00\u003eHold on!",
+  "NewText_02": "\u003csp:3:0:2:0001\u003e\u003csnd:TalkPositive_01\u003eIt has been some time, Swordsman...",
+  "NewText_03": "It\u0027s all right.\n\n\nThis one has the chief\u0027s permission to\nenter, and he is welcome to visit any of\nthe shops and businesses.\nSpread the word. Let everyone know this\nis the case.",
+  "NewText_04": "\u003csp:3:0:2:0000\u003e\u003csnd:TalkPositive_00\u003eFor you to come all this way, enduring the\nstrange storm that plagues us... \u003csp:5:0:0\u003eYou must\nhave some important news to share.",
+  "NewText_10": "\u003csp:3:0:2:0300\u003eIf you are hoping to speak with Lady Riju,\nyou should visit the \u003cclr:0000\u003eruins to the north\u003cclr:ffff\u003e.",
+  "NewText_11": "\u003csp:0:2:2:7d00\u003eYou must leave at once!\u003csp:0:2:2:6400\u003e",
+  "NewText_05": "\u003csp:3:0:2:0001\u003e\u003csnd:QuestionNormal_01\u003eThe princess of Hyrule is still missing?!\n\n\nWe had heard of the events at Hyrule\nCastle, but this...\u003csp:5:0:0\u003e Things are dire, indeed.",
+  "NewText_12": "\u003csnd:Angry_01\u003eA thief! There\u0027s a thief! Capture him!",
+  "NewText_06": "Still, Swordsman... I mean, Link.\u003csp:5:0:0\u003e I am\nimpressed you made it here through\nthe storm that surrounds Gerudo Town.",
+  "NewText_13": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0001\u003e\u003csnd:Angry_00\u003eThieves are not allowed in! Ever!\u003csp:0:2:2:6400\u003e",
+  "NewText_07": "\u003csp:3:0:2:0300\u003e\u003csnd:Trouble_01\u003eThe sand shroud settled on us some time\nago. We sent out patrols to try to\ndetermine what was causing it, but...\nA swarm of monsters—creatures called\nGibdos—suddenly appeared, attacked our\ntroops, and forced us to retreat.\nThe Gibdos have even made their way into\nthe town. As a result, everyone was\nevacuated to this shelter for their safety.\nAs someone charged with protecting\nGerudo Town, I am ashamed at our\ncurrent situation.",
+  "NewText_08": "\u003csp:3:0:2:0300\u003eThis is all to say that, although I wish I\ncould help you search for the princess,\nnow is...\u003csp:5:0:0\u003enot a good time. I\u0027m sorry.",
+  "NewText_14": "\u003csp:3:0:2:0300\u003eHowever, the attire you are wearing is...\u003csp:5:0:0\u003e\nnot acceptable.\n\nI would ask that you not dress like those\nwho have historically attacked us.\u003csp:5:0:0\u003e If you\nwant to enter town, change your attire."
+}

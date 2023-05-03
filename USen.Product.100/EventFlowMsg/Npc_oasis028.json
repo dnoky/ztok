@@ -1,0 +1,13 @@
+{
+  "Talk_02": "\u003csp:3:0:2:0700\u003eWe haven\u0027t found any endura carrots,\nbut I think my husband and I will continue\npoking around here for now.\nYou might have more luck searching for\nthem at the top of the mountain though.",
+  "Talk_03": "\u003csp:3:0:2:0700\u003eWe were hoping to find some endura\ncarrots, but there\u0027s nothing we can do\nin this rain.\nI would hate to put my husband\u0027s health\nat further risk.",
+  "Talk_04": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eYou are part of why my husband and I can\nshare quiet moments like this.",
+  "Talk_05": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eSometimes it\u0027s enough to just sit and\nenjoy your partner\u0027s company.",
+  "AssassinEquipment_00": "\u003csp:3:0:2:0c01\u003eAlso...\u003csp:5:1:0\u003eI\u0027m sorry to ask this, but are you\nin the Yiga Clan?\n\nI\u0027ve met a lot of people in my life, \u003csp:5:1:0\u003eand I\nmake a point not to judge people by how\nthey look.\n\u003csp:3:0:2:0300\u003e\u003csnd:Sad\u003eBut I don\u0027t think you should go into town\nwith that outfit on.\n\nUnless you want to go to jail.",
+  "Talk_06": "\u003csp:3:0:2:0700\u003eLet\u0027s talk over there.",
+  "Balloon_00": "Where are those carrots?",
+  "Talk_00": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS_01\u003eI recognize you. You\u0027re the voe who\ncame to our aid in Gerudo Canyon.\n\nThose Gleeok guts you gave us helped put\nmy husband back on his feet.\n\nIn other words, it\u0027s thanks to you that we\ncan enjoy our wedding adventure.\n\n\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eHe and I are looking for endura carrots\nnow, in hopes of further improving\nhis health.\nThey are said to grow around here,\nbut so far, we haven\u0027t found any.\n\n\u003csp:3:0:2:0101\u003eIt doesn\u0027t bother me much. I think we\nboth get some pleasure out of searching\nfor them together.",
+  "Talk_07": "\u003csp:3:0:2:0700\u003eIt\u0027s starting to rain, I see.",
+  "Talk_01": "\u003csp:3:0:2:0700\u003eI\u0027d heard that this was a place where\nendura carrots grew.\n\nBut we\u0027ve scoured this whole area and\nhaven\u0027t found any at all.\n\nPerhaps we had better look around at a\nhigher elevation.",
+  "Balloon_AssassinEquipment_00": "That uniform..."
+}

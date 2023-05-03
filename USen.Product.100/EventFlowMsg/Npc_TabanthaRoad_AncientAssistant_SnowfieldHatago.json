@@ -1,0 +1,8 @@
+{
+  "Talk_01": "\u003csp:3:0:2:0c00\u003e\u003csnd:Think_00\u003eThe blizzard outside is really terrible.\u003csp:5:0:0\u003e\nI wonder when it will stop.\n\n\u003csp:3:0:2:0701\u003eHave you come in here to \u003cclr:0000\u003etake shelter\nfrom the cold\u003cclr:ffff\u003e too?\n\nI was on my way to investigate some\nruins in a snowfield north of here.\n\n\u003csp:3:0:2:0a00\u003e\u003csnd:Sad_01\u003eThen this blizzard started...\u003csp:5:0:0\u003eand it didn\u0027t\nlet up.\u003csp:5:0:0\u003e So I left the road and took shelter\nin this stable.\u003csp:5:0:0\u003e And here I still am.",
+  "Talk_11": "\u003csp:3:0:2:0000\u003e\u003csnd:QuestionNormal\u003eOh, it\u0027s you... Taking shelter in here\nagain?\u003csp:5:0:0\u003e I guess we\u0027re both still waiting\nfor this blizzard to stop.",
+  "Talk_02": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive\u003eWhen the cold is severe, take shelter in\na building like this to \u003cclr:0000\u003eprotect yourself\nfrom the elements\u003cclr:ffff\u003e.\nOr shelter...\u003csp:5:0:0\u003ein \u003cclr:0000\u003ecaves\u003cclr:ffff\u003e!\u003csp:5:0:0\u003e They\u0027re warmer\nthan you\u0027d think. Cozy, even!\n\n\u003csp:3:0:2:0001\u003eWatch out though—there are some\n\u003cclr:0000\u003ecold caves\u003cclr:ffff\u003e that are just as freezing as\nthe weather is outside!",
+  "Talk_03": "\u003csp:3:0:2:0a00\u003e\u003csnd:Think_01\u003e*sigh* I hope this blizzard ends soon.\u003csp:5:0:0\u003e\nI need to check out those ruins.",
+  "Near01": "Can\u0027t go out like this...",
+  "Near02": "I hope this blizzard stops."
+}

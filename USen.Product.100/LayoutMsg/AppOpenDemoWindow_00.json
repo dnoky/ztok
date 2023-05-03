@@ -1,0 +1,8 @@
+{
+  "Sensor_Name": "Sensor",
+  "FootPrint_Caption": "You can now use the map to see the path you\u0027ve taken on your\njourney, footstep by footstep. You can save around 256 hours\nof gameplay. If you exceed this amount of play data, the oldest\nfootsteps will be erased as new ones are added.",
+  "SensorPlus_Name": "Sensor +",
+  "SensorPlus_Caption": "You can select something other than Shrines\nof Light as a sensor target. The sensor has\na stronger reaction as you get closer to\nthe target.",
+  "FootPrint_Name": "Hero\u0027s Path Mode",
+  "Sensor_Caption": "The sensor reacts when you are close to\nShrines of Light that you have not yet visited.\nIf you head in the direction where the reaction\nis strongest, you should find the shrine."
+}

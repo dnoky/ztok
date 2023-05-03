@@ -1,0 +1,12 @@
+{
+  "Talk_0005": "\u003csp:3:0:2:0701\u003eThe map in the Forgotten Temple showed\na geoglyph \u003cclr:0000\u003eshaped like a castle\u003cclr:ffff\u003e.",
+  "Talk_0006": "\u003csp:3:0:2:0701\u003eThe map in the Forgotten Temple showed\na geoglyph that \u003cclr:0000\u003elooks like a stone tablet\u003cclr:ffff\u003e.",
+  "Near_0001": "Where is that geoglyph?",
+  "Talk_0007": "\u003csp:3:0:2:0701\u003eThe map in the Forgotten Temple showed\na geoglyph \u003cclr:0000\u003eshaped like a monster\u003cclr:ffff\u003e.",
+  "Talk_0001": "\u003csp:3:0:2:0b00\u003e\u003csnd:Greeting_01\u003eHm?\u003csp:5:1:0\u003e This is the last place I expected to\nfind you, courageous one.\n\n\u003csp:3:0:2:0701\u003eI came to investigate the local geoglyph,\nbut the sandstorm scuttled my plans.\n\nNow that it has finally died down, I intend\nto resume my search.",
+  "Talk_0008": "\u003csp:3:0:2:0701\u003eThe map in the Forgotten Temple showed\na geoglyph \u003cclr:0000\u003eshaped like a person\u003cclr:ffff\u003e.",
+  "Talk_0002": "\u003csp:3:0:2:0700\u003e\u003csnd:Trouble\u003eThere is also the matter of the temple at\nthe bottom of the canyon in Hebra.\u003csp:0:4:0\u003eCado has been studying the relevant\nliterature and is certain it will aid us\nin our search for the geoglyphs.\u003csp:0:4:0\u003eClearly, we must investigate this\n\u003cclr:0000\u003eForgotten Temple\u003cclr:ffff\u003e.",
+  "Talk_0009": "\u003csp:3:0:2:0701\u003eWe are on a journey to find every\ngeoglyph depicted on that map.\u003csp:0:4:0\u003e\u003csp:3:0:2:0c00\u003ePoor Cado had a miserable time copying\nthe whole thing down.\u003csp:0:4:0\u003eIf only we had a camera, he could have\nbeen spared a lot of effort...\n\n\u003csp:3:0:2:0701\u003e\u003csnd:Happy_01\u003eOh well. No use worrying about that now.",
+  "Talk_0003": "\u003csp:3:0:2:0700\u003e\u003csnd:Trouble\u003eWe have heard of geoglyphs all across\nHyrule...\u003csp:5:1:0\u003ebut our search for them has been\nhaphazard at best.\n\u003csp:3:0:2:0c01\u003ePerhaps a visit to the \u003cclr:0000\u003eForgotten Temple\u003cclr:ffff\u003e\nin that canyon in Hebra could provide us\nbetter guidance.",
+  "Talk_0004": "\u003csp:3:0:2:0701\u003eNow, I must finish my preparations and\nreunite with Cado.\u003csp:0:4:0\u003eI\u0027ve left him waiting at the entrance to\ntown for so long, I will be half-surprised\nif he has not left without me."
+}

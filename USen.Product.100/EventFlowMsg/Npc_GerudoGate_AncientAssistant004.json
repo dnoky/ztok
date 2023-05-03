@@ -1,0 +1,23 @@
+{
+  "Greeting_Evening": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting\u003eGood evening.",
+  "Fukidashi_02": "Zzz... Zzz...",
+  "Talk_05_2": "\u003csp:3:0:2:0301\u003e\u003csnd:Think\u003eWe used to have a fantastic cook, Fenlin,\nbut she\u0027s off visiting Gerudo Town.\n\nNow that I think about it, she should have\nreturned already...",
+  "Greeting_Noon": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting\u003eGood day.",
+  "Greeting_Rain": "\u003csp:3:0:2:0c00\u003e\u003csnd:Think_00\u003eIt\u0027s a little chilly...",
+  "Talk_10": "\u003csp:3:0:2:0700\u003eGerudo Canyon is a huge canyon to the\nsouth. It leads to Gerudo Desert, where\nyou would find Gerudo Town.",
+  "Talk_04": "\u003csp:3:0:2:0a00\u003e\u003csnd:Think\u003eHowever, lately the days in Gerudo\nCanyon have been blisteringly hot and the\nnights have been absolutely freezing.\nYou\u0027ll collapse before long if you aren\u0027t\nprepared to deal with extreme weather.\n\nFor example, I\u0027ve been maintaining a\ncareful diet to help me deal with these\nextreme temperatures.",
+  "Talk_05": "\u003csp:3:0:2:0700\u003eIf you want to know more, chat with the\ngirl in that tent over there.\n\nShe should be able to answer any\nquestions you have.",
+  "Talk_11": "\u003csp:3:0:2:0100\u003e\u003csnd:Happy\u003eRubble and ruins have been falling all over\nsince the Upheaval, but the ruins at the\nborder are particularly immense.\nWe\u0027ve set up this camp so we can carry\nout a full investigation of that site.\n\nThis area has a very harsh environment,\nbut we make interesting discoveries\nevery day, so it\u0027s worth it!",
+  "Talk_12": "\u003csp:3:0:2:0700\u003eYou should keep an eye out for other\ninvestigators or travelers.\n\nIf you\u0027re going to pass through\nGerudo Canyon, you may find others\nwith useful information to share!",
+  "Talk_07": "\u003csp:3:0:2:0700\u003eIf you like the unique ruins up ahead,\nyou might also be interested in visiting\nKakariko Village off to the east.\nThe various ruins there are fascinating,\nand definitely worth your time.",
+  "Talk_13": "\u003csp:3:0:2:0701\u003eWas there anything else?",
+  "Greeting_Midnight": "\u003csp:3:0:2:0000\u003e\u003csnd:Sad_01\u003eMmm.\u003csp:5:1:0\u003e What are you doing out this late?",
+  "Talk_14": "\u003csp:3:0:2:0700\u003eGive me a chance to get where I am\ngoing, all right?",
+  "0000": "Giant ruins?",
+  "Talk_09": "\u003csp:3:0:2:0700\u003eAh, it\u0027s the young fellow from before.\n\n\nIf you have some time, you should go take\na look at the giant ruins on the border of\nGerudo Canyon. They are quite a sight!",
+  "0001": "Gerudo Canyon?",
+  "Greeting_Morning": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting\u003eGood morning.",
+  "Talk_00": "\u003csp:3:0:2:0700\u003eOho...\u003csp:5:1:0\u003e Might you be a traveler?\n\n\nI\u0027m camping here so I can investigate\nthe giant ruins that fell at the entrance to\nGerudo Canyon, just up ahead.",
+  "0002": "Goodbye.",
+  "Fukidashi_01": "Fascinating..."
+}

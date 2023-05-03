@@ -1,0 +1,15 @@
+{
+  "Near02": "Gorondians...",
+  "Talk07": "\u003csp:3:0:2:0800\u003e\u003csnd:Sleep\u003eTomorrow... I\u0027ll do it tomorrow...\u003csp:5:1:0\u003e Go in\nthe cave...\u003csp:5:1:0\u003eand *mumble*...\u003csp:5:1:0\u003eGorondians...",
+  "Talk01": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting_00\u003eOh, it\u0027s you!\u003csp:5:0:0\u003e Are you following me again?\n\n\n\u003csp:3:0:2:0101\u003eYou\u0027re sure pushy. I like that. So I\u0027ll let\nyou in on a little something.\u003csp:5:0:0\u003e\n\nIt\u0027s actually a secret to everyone.\n\n\n\u003csp:3:0:2:0800\u003e\u003csnd:Happy_00\u003eI have discovered...\u003csp:5:0:0\u003ethe home of the\nGorons of old—\u003cclr:0000\u003e\u003csp:5:0:0\u003eGorondia\u003cclr:ffff\u003e!\n\nGuess what else!\u003csp:5:0:0\u003e There are Gorondians\nthere TOO!",
+  "Talk08": "\u003csp:3:0:2:0800\u003e\u003csnd:TalkDeny_00\u003eToday\u0027s the day. I\u0027m gonna go play with\nthose Gorondians inside the cave.\n\nPretty soon, you\u0027ll see us zipping down\nthose tracks together!",
+  "Talk10": "\u003csp:3:0:2:0000\u003eBut...",
+  "Talk02": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive_00\u003e\u003cclr:0000\u003eGorondia \u003cclr:ffff\u003eis inside this cave.\u003csp:0:4:0\u003eDeep inside there\u0027s this weird, twisty,\nspiral track...\u003csp:5:0:0\u003e I bet ya it\u0027s for a vehicle\nfrom Gorondian civilization.\nWhich means...\u003csp:0:4:0\u003e\u003csp:3:0:2:0800\u003e\u003csnd:LaughL_00\u003eThe people inside are the Gorondians who\nmade it!",
+  "Talk09": "\u003csp:3:0:2:0800\u003e\u003csnd:LaughBad_00\u003eThey were playing on a twisty, spiral\ntrack, and it looked like fun.\u003csp:5:0:0\u003e\n\nNext time, I\u0027ll ask if I can play with them.",
+  "Talk03": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting\u003eOh, it\u0027s you!",
+  "RideSeatCower": "I\u0027m gonna fall!",
+  "Talk04": "\u003csp:3:0:2:0800\u003eI\u0027ve been watching the Gorondians lately.\n\n\n\u003csp:3:0:2:0000\u003eThey\u0027ve been inside the cave for a\nlong time.\u003csp:0:4:0\u003eSometimes I can see them zooming down\nthe spiral tracks.\n\nI wanna play with them...\u003csp:0:4:0\u003e\u003csp:3:0:2:0a01\u003e\u003csnd:Think\u003eBut I\u0027m so nervous about talking to actual\nREAL Gorondians that I freeze.",
+  "RideSeatDrown": "Eeek!",
+  "Near01": "Gorondians...",
+  "Talk06": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal\u003eI\u0027ve gotta go to sleep.\n\n\nI\u0027ll tell you more about the Gorondians in\nthe cave tomorrow, \u0027K?"
+}

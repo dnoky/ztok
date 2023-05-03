@@ -1,0 +1,10 @@
+{
+  "talk_0021": "\u003csp:3:0:2:0701\u003e\u003csnd:Think_01\u003eI recommend you begin by making your\nway to the light you see over there.",
+  "talk_0022": "\u003csp:3:0:2:0701\u003eOne more thing before you set out on\nyour journey.",
+  "talk_0018": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_01\u003eExcuse me.\u003csp:5:1:0\u003e",
+  "talk_0023": "\u003csp:3:0:2:0701\u003e\u003csnd:WorkHeavy_00\u003eThere is something I would like you to\nhave.\u003csp:5:0:0\u003e Please speak with my associate\nwhen possible.",
+  "near_0000": "I must protect myself.",
+  "talk_0019": "\u003csp:3:0:2:0801\u003eThank you for repelling the trespassers.\u003csp:5:0:0\u003e\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eI hope you will pardon me for listening in\non your conversation.\u003csp:5:0:0\u003e",
+  "talk_0020": "\u003csp:3:0:2:0701\u003e\u003csnd:QuestionNormal\u003eThat man mentioned an abandoned mine\nto the southwest. I suspect that he is\nreferring to the \u003cclr:0000\u003eformer Gerudo Mine\u003cclr:ffff\u003e.\nThat place flourished with activity long\nago like this one. Ore was constantly\nunearthed and refined.\nThere are \u003cclr:0000\u003estatues that point the way\u003cclr:ffff\u003e to\nthe Abandoned Gerudo Mine. Follow them\nto reach that destination.",
+  "talk_0025": "\u003csp:3:0:2:0801\u003e\u003csnd:Greeting\u003eGreetings.\u003csp:5:0:0\u003e"
+}

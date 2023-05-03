@@ -1,0 +1,15 @@
+{
+  "Talk106": "\u003csp:3:0:2:0801\u003eI\u0027m so happy I made it back. I think\nI might just lounge around the\nforest awhile.",
+  "Talk100": "\u003csp:3:0:2:0b00\u003e\u003csnd:TalkPositive_01\u003eSo bad! Real bad! \u003csp:5:0:0\u003eThe \u003cclr:0000\u003eLost Woods \u003cclr:ffff\u003ejust\naren\u0027t right anymore...\u003csp:0:4:0\u003eNo matter which way I enter, the fog\ncomes and gets me, and then I\u0027m right\nback at the beginning... \n\u003csp:3:0:2:0c00\u003e\u003csnd:Sad_01\u003eI can\u0027t return to Korok Forest\u003cclr:0000\u003e \u003cclr:ffff\u003elike this.\u003csp:5:0:0\u003e\nI want to go home...\n\nI did hear that a big hole opened up in\n\u003cclr:0000\u003eMinshi Woods\u003cclr:ffff\u003e.\u003csp:5:0:0\u003e Kinda scary...",
+  "Talk107": "\u003csp:3:0:2:0c00\u003e\u003csnd:QuestionNormal\u003eIt seems like the Great Deku Tree is fine\nnow, but maybe I should double-check to\nmake sure nothing bad\u0027s hanging around.",
+  "Talk101": "\u003csp:3:0:2:0c00\u003e\u003csnd:TalkPositive\u003eNo matter which way I enter the Lost\nWoods, the fog comes and gets me, and\nthen I\u0027m right back at the beginning...\nIt\u0027s covering the entire woods, so there\u0027s\nno way to go without the fog getting me...\n\n\u003csp:3:0:2:0a00\u003eI can\u0027t return to Korok Forest like this.\u003csp:5:0:0\u003e\nI want to go home...\n\nI did hear that a big hole opened up in\n\u003cclr:0000\u003eMinshi Woods\u003cclr:ffff\u003e.\u003csp:5:0:0\u003e I wonder if my friends who\nwent to check it out are OK...",
+  "Talk110": "\u003csp:3:0:2:0701\u003eChio told me that a monster was in the\nGreat Deku Tree\u0027s tummy, making trouble.\n\n\u003csp:3:0:2:0c00\u003e\u003csnd:QuestionNormal_00\u003eEverything seems OK now, but maybe I\nshould double-check around him to make\nsure nothing bad\u0027s lurking anymore...",
+  "Talk108": "\u003csp:3:0:2:0700\u003eOh, you want to talk to the Great Deku\nTree, huh? Just head up this root.\n\nAnd then you can talk to the Great Deku\nTree from the stump up there!",
+  "Talk102": "\u003csp:3:0:2:0800\u003eGood morning! This is the best morning\never to be in Korok Forest!",
+  "Talk109": "\u003csp:3:0:2:0700\u003eIf you want to talk to the Great Deku Tree,\nthen go up this root!",
+  "Talk103": "\u003csp:3:0:2:0800\u003eHello! Daytime in Korok Forest is the\nbest time!",
+  "Talk104": "\u003csp:3:0:2:0800\u003eGood evening! Evening in Korok Forest is\njust the best, huh?",
+  "0000": "The Great Deku Tree...",
+  "Talk105": "\u003csp:3:0:2:0800\u003eGood evening! Isn\u0027t nighttime nice here in\nKorok Forest?",
+  "0001": "Goodbye."
+}

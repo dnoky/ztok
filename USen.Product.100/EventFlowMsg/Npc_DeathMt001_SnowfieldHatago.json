@@ -1,0 +1,12 @@
+{
+  "Talk_02": "\u003csp:3:0:2:0701\u003eThe blizzard outside is furious, isn\u0027t it?\u003csp:5:0:0\u003e\nThis weather can be life-threatening to\nthose without \u003cclr:0000\u003ecold-resistant clothes\u003cclr:ffff\u003e.\n\u003csp:3:0:2:0300\u003e\u003csnd:Sigh_00\u003eWhile my fashion is perfect for nearly\nevery scenario, sadly, a raging blizzard\nisn\u0027t one of them. So I\u0027m stuck here.",
+  "Talk_11": "\u003csp:3:0:2:0a00\u003e\u003csnd:Sigh\u003eThe blizzard outside keeps on churning.\nIt\u0027s surely life-threatening to those\nwithout \u003cclr:0000\u003ecold-resistant clothes\u003cclr:ffff\u003e.",
+  "Near02": "Cold-resistant clothes...",
+  "Talk_03": "\u003csp:3:0:2:0c01\u003eYou can buy cold-resistant clothing at\n\u003cclr:0000\u003eRito Village\u003cclr:ffff\u003e off to the west. Clothes that\nare stuffed with feathers, I\u0027ve heard.\n\u003csp:3:0:2:0300\u003e\u003csnd:Think_01\u003eBut they say that the bridge that crosses\nover to their village has collapsed. So\na journey there could prove fruitless.",
+  "Talk_21": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eOh, it\u0027s you...\u003csp:5:0:0\u003e We meet again.\u003csp:5:0:0\u003e I\u0027m still\nstranded here!",
+  "Talk_22": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_01\u003eOh, it\u0027s you...\u003csp:5:0:0\u003e It looks you\u0027re prepared to\nward off the cold outside.",
+  "Talk_01_01": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal_00\u003eYou came all the way here...\u003csp:5:0:0\u003edressed\nlike that?\u003csp:5:0:0\u003e Aren\u0027t you cold?",
+  "Talk_01_02": "\u003csp:3:0:2:0700\u003e\u003csnd:Admiration_01\u003eLook at you...\u003csp:5:0:0\u003e Dressed to keep nice and\nwarm, it seems.",
+  "Near01": "It\u0027s so cold...",
+  "Talk_01": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM_00\u003eUnbelievable!\u003csp:5:0:0\u003e It\u0027s such a long way here,\u003csp:5:0:0\u003e\nbut you\u0027re barely dressed for such\na journey!"
+}

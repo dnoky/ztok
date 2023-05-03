@@ -1,0 +1,9 @@
+{
+  "talk_21": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting\u003eNow that I know fragments like this one\ncan help us \u003cclr:0000\u003esee the Depths in a new way\u003cclr:ffff\u003e,\nI\u0027ll be searching my collection for more.\n\u003csp:3:0:2:0801\u003eI\u0027ll let you know if that leads to a\nnew breakthrough!\u003csp:0:4:0\u003eUntil then, you should probably focus on\nthe investigations that Doc tasked you\nwith, Swordsman!",
+  "NakedPlayer": "You\u0027re dressed weird...",
+  "talk_08": "\u003csp:3:0:2:0800\u003eThat \u003cclr:0000\u003epicture\u003cclr:ffff\u003e you took helped me realize\nthis fragment here is going to help us\n\u003cclr:0000\u003esee the Depths in a new way\u003cclr:ffff\u003e.\n\u003csp:3:0:2:0800\u003e\u003csnd:LaughS\u003eI\u0027ll look through my collection for more\nfragments, and I\u0027ll let you know if I have\na breakthrough.\nUntil then, focus on the investigations\nthat Doc asked you to do!",
+  "talk_18": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM\u003eUm, Swordsman?\u003csp:0:4:0\u003eThat\u0027s where I keep my research\nmaterials...",
+  "talk_24": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal_00\u003eSwordsman? Are you OK over there? \nYou looked like you were somewhere\nelse just now.\nOh, I bet you\u0027re interested in that\nstrange stone, huh? \u003csp:5:1:0\u003eWe discovered\nit in the Depths.\n\u003csp:3:0:2:0c00\u003eIt looks both naturally formed and as\nthough it\u0027s been carved into...\u003csp:5:1:0\u003e\n\n\u003csp:3:0:2:0701\u003eWe don\u0027t know much about it, as you\ncan probably tell. There\u0027s still so much\nto learn...\n\u003csp:3:0:2:0800\u003e\u003csnd:LaughS\u003eSo once I\u0027m done with my current\ninvestigation, I plan to start digging\ninto it more!",
+  "talk_20": "Please, hands off, \u0027K?",
+  "Enokida": "Nice disguise!"
+}

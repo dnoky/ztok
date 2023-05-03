@@ -1,0 +1,19 @@
+{
+  "Talk_0012": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eI\u0027m feeling experimental. I think I\u0027ll try to\nmake a meat and rice bowl using \u003cclr:0000\u003emultiple\nkinds of meat\u003cclr:ffff\u003e.\nRumors say there\u0027s an \u003cclr:0000\u003eunknown creature\u003cclr:ffff\u003e\nkicking around. I hear that and I wonder,\nhow is it going to taste on rice?",
+  "Talk_0006": "\u003csp:3:0:2:0b00\u003eI can\u0027t believe I wanted to cook those\npoor, sweet creatures lovingly raised by\nthe princess herself.\nThe only thing I deserve to eat is a big,\nflaky slice of humble pie with a side of\nshame soup.\u003csp:0:4:0\u003e...You better not speak one word of this to\nthe princess! Got it?",
+  "Talk_0007": "\u003csp:3:0:2:0400\u003e\u003csnd:Notice\u003eCan this wait? \u003csp:5:1:0\u003eI need to get under a roof.",
+  "Talk_0008": "\u003csp:3:0:2:0800\u003eGotta sleep well so I wake up good and\nhungry! That\u0027s the secret to happy eating!",
+  "NakedPlayer": "It\u0027s risky to go unarmored.",
+  "Talk_0009": "\u003csp:3:0:2:0700\u003e\u003csnd:Sleep\u003eSouth... \u003csp:5:1:0\u003eCreature... \u003csp:5:1:0\u003eZzz... \u003csp:5:1:0\u003eYum...",
+  "Near_0001": "Aah! Cold! Cold!",
+  "Near_0002": "What meat to use?",
+  "Near_0003": "The meat is crucial.",
+  "Talk_0001": "\u003csp:3:0:2:0800\u003eFoodstuff and poison... \u003csp:5:0:0\u003eWow, who knew\ncooking could be so deep?",
+  "Talk_0002": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eI\u0027m feeling experimental. I think I\u0027ll try to\nmake a meat and rice bowl using \u003cclr:0000\u003emultiple\nkinds of meat\u003cclr:ffff\u003e.\nAs for what kinds, hm... There\u0027s talk lately\nof a \u003cclr:0000\u003enew creature I\u0027ve never seen before\u003cclr:ffff\u003e.\nA traveler from the \u003cclr:0000\u003esouth \u003cclr:ffff\u003etold me about it.\nIs it an animal? A monster? I couldn\u0027t\ntell you. All I know is, I want to find out\nhow that thing tastes!",
+  "0000": "So, about Dondons...",
+  "Talk_0003": "\u003csp:3:0:2:0b00\u003eYou mean the rumors are true? \u003csp:5:1:0\u003ePrincess\nZelda discovered these...\u003csp:5:0:0\u003eDondons, you\ncalled them, and raised them herself?\n\u003csp:3:0:2:0a00\u003eI was going to cook an animal the princess\nloved in the recipe she taught me.\nHow horrifying.\u003csp:0:4:0\u003eAll along, the real animal \u003csp:5:0:0\u003ewas me.\nI\u0027m the one who deserves to be cooked\nand served on rice.\n\u003csp:3:0:2:0b01\u003e...Don\u0027t tell anyone about this! \u003csp:5:1:0\u003eGot it?",
+  "Talk_0010": "\u003csp:3:0:2:0800\u003eWe meet again!\u003csp:0:4:0\u003eWhat? I\u0027d never forget the guy who saved\nmy life.\u003csp:0:4:0\u003e\u003csp:3:0:2:0701\u003eThat experience taught me a valuable\nlesson about the all-too-thin line between\nfoodstuff and poison.",
+  "0001": "Goodbye.",
+  "Talk_0004": "\u003csp:3:0:2:0700\u003eIf you want to add some freaky flavors to\nyour cooking, I suggest sprinkling in some\n\u003cclr:0000\u003emonster extract\u003cclr:ffff\u003e.\nYou can buy it from \u003cclr:0000\u003eTarrey Town\u003cclr:ffff\u003e. That\u0027s\nin the Akkala region in the northeastern\npart of Hyrule.",
+  "Talk_0011": "\u003csp:3:0:2:0700\u003e\u003csnd:Sleep\u003eForgive me... \u003csp:5:1:0\u003eZzz...elda... \u003csp:5:1:0\u003eI won\u0027t...\u003csp:5:1:0\u003eeat\nthe Dondons..."
+}

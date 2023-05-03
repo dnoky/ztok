@@ -1,0 +1,11 @@
+{
+  "talk_11": "Please take it.",
+  "talk_01": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy_00\u003eWhat I have just given you is an\n\u003cclr:0000\u003eEnergy Cell\u003cclr:ffff\u003e.\u003csp:0:4:0\u003eIt is required to make use of the tools\nknown as \u003cclr:0000\u003eZonai devices\u003cclr:ffff\u003e.\u003csp:0:4:0\u003eI cannot demonstrate its utility because\nthere are no Zonai devices right here.",
+  "talk_12": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_00\u003eI have an associate working at the river\nnear the base of this mountain.\u003csp:0:4:0\u003eThey can teach you how to use this.",
+  "talk_03": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting_01\u003eLink.",
+  "talk_13": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_00\u003eI have an associate in the cave ahead of\nhere. They are working at the other end.\u003csp:0:4:0\u003eThey can teach you how to use this.",
+  "talk_04": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_00\u003eHowever, I have associates on the other\nside of that cave system.\u003csp:0:4:0\u003eThey can teach you how to use this.",
+  "talk_00": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_01\u003eI came because there is something I failed\nto give you.",
+  "talk_05": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_01\u003eI hope that the \u003cclr:0000\u003eEnergy Cell \u003cclr:ffff\u003eI provided is\nuseful to you.",
+  "talk_10": "\u003csp:3:0:2:0700\u003eTake care."
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Cave Mushrooms That Glow",
+  "GetPresent": "You gave Nat 10 brightcaps. She wants to\nrepay you with a homemade meal, but you\ndon\u0027t have room for it in your pouch.\n\nReport to Nat after you\u0027ve \u003cclr:0000\u003eorganized\nyour things\u003cclr:ffff\u003e.",
+  "Step01": "The sisters Nat and Meghyn have come to\nsearch for brightcaps in a cave, but they\ncan\u0027t quite seem to step inside.\n\nThe older sister, Nat, won\u0027t leave until she\ngets \u003cclr:0000\u003e10 \u003cclr:ffff\u003ebrightcaps.",
+  "Complete": "You gave Nat 10 brightcaps and learned that\nshe and her sister, Meghyn, are on a journey\nlooking for...\"that.\" They wouldn\u0027t tell you what\n\"that\" is, but said they would let you in on the\nsecret if you meet again. It sounds like they\u0027re\ngoing to \u003cclr:0000\u003enorthern Hebra\u003cclr:ffff\u003e next."
+}

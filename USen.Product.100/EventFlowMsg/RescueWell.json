@@ -1,0 +1,16 @@
+{
+  "Talk03": "\u003csp:3:0:2:0c00\u003eWhat can we do?\u003csp:5:1:0\u003e The \u003cclr:0000\u003eladder piece\u003cclr:ffff\u003e is\nstill here, but what\u0027s broke is broke!",
+  "Talk10": "\u003csp:3:0:2:0700\u003e\u003csnd:SurpriseS\u003eHuh? \u003csp:5:0:0\u003eThe ladder is fixed? How did you\nattach it?\n\n\u003csp:3:0:2:0c01\u003eBut still, it doesn\u0027t reach ALL the way\nup. So, uh, yeah...",
+  "Talk04": "\u003csp:3:0:2:0800\u003e\u003csnd:LaughL_00\u003eMan, you saved me.\u003csp:5:0:0\u003e I thought I\u0027d\nbe stuck in that well for the rest of\nmy life. Seriously.\n\u003csp:3:0:2:0701\u003eI really owe you. So, here. Take this.",
+  "Talk05": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_01\u003eI\u0027m going to catch up to my buddy \u003cclr:0000\u003eJora\u003cclr:ffff\u003e\nand head to \u003cclr:0000\u003eFoothill Stable\u003cclr:ffff\u003e, so we can\napply for the Zonai Survey Team.",
+  "Talk11": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eSee you around. Thanks again. \u003csp:5:0:0\u003eAnd hey,\ndon\u0027t go falling into any wells, OK?",
+  "Talk06": "\u003csp:3:0:2:0b00\u003eWhat?\u003csp:5:0:0\u003e You met Jora?\u003csp:5:0:0\u003e And sitting there in\nhis underpants, you say...",
+  "Talk12": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseL_01\u003eHey! What do you think you\u0027re doing?",
+  "Talk13": "\u003csp:3:0:2:0000\u003eWe need that to get out of here!",
+  "Talk08": "\u003csp:3:0:2:0700\u003e\u003csnd:Think_00\u003eI even had a \u003cclr:0000\u003eladder\u003cclr:ffff\u003e! But yeah, it \u003cclr:0000\u003ebroke\u003cclr:ffff\u003e\nwhen I tried to climb up.",
+  "Talk09": "\u003csp:3:0:2:0701\u003e\u003csnd:Sad_01\u003eThen on top of THAT, my best buddy I go\neverywhere with should have noticed.\nBut, uh, he didn\u0027t. He kept right on going.\n\u003csp:3:0:2:0900\u003e\u003csnd:Angry_01\u003e\u003csp:0:2:2:7d00\u003eCome on, man! Really?!\u003csp:0:2:2:6400\u003e\n\n\n\u003csp:3:0:2:0701\u003eSorry, not YOUR fault. Can\u0027t tell you how\nhappy I am that you came down here.\n\nBut what now?\u003csp:5:0:0\u003e The ladder\u0027s wrecked.\n\n\n\u003csp:3:0:2:0c00\u003e\u003csnd:Sad_00\u003eI mean, the \u003cclr:0000\u003ebroken part\u003cclr:ffff\u003e is still here, so\nwe technically could fix it...if the dang\nladder weren\u0027t too high to reach.",
+  "Talk00": "\u003csp:3:0:2:0800\u003eOh my gosh already! \u003csp:5:1:0\u003eI\u0027ve waited a long\ntime for someone to rescue me.\n\n\u003csp:3:0:2:0701\u003eIt\u0027s my own darn fault I\u0027m here though.\u003csp:5:0:0\u003e\nDropped something down the well, and\nclimbed in after it.",
+  "Talk01": "\u003csp:3:0:2:0c00\u003e\u003csnd:Sad\u003eIt\u0027s just you and me now. Stuck down at\nthe bottom of a well. Not the worst place\nto call home, I guess...\u003csp:5:1:0\u003e",
+  "Talk02": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy_00\u003eHuh? Wait, it\u0027s fixed?\u003csp:5:0:0\u003e Did you do that?\n\n\n\u003csp:3:0:2:0701\u003eYou\u0027re incredible! Now, let\u0027s get outta\nhere already!",
+  "Near00": "The ladder..."
+}

@@ -1,0 +1,7 @@
+{
+  "Name": "Camera Work in the Depths",
+  "TakePicture": "You found Robbie inside the chasm, down in\nthe Depths. He unlocked your \u003cclr:0000\u003ecamera\u003cclr:ffff\u003e and \nasked you to give it a try, by taking a \u003cclr:0000\u003epicture\u003cclr:ffff\u003e\nof a nearby statue. \n\nThe statue seems to be very similar to the\n\u003cclr:0000\u003efigure\u003cclr:ffff\u003e on the slate fragment that Josha\nis studying.",
+  "GotoUnderground": "Josha showed you an \u003cclr:0000\u003eimage of a figure\u003cclr:ffff\u003e on a\npiece of slate from \u003cclr:0000\u003ethe Depths\u003cclr:ffff\u003e. She thinks it\u0027s\nevidence of a people that once lived there.\nRobbie said he\u0027d go to the Depths to find her\nanything that shows another such figure. He\nwants you there to take a picture of it with the\nPurah Pad\u0027s \u003cclr:0000\u003ecamera\u003cclr:ffff\u003e, if necessary. Join him at\nthe chasm south of Lookout Landing.",
+  "ReturnBaseCamp": "You took a picture of the statue, and Robbie\nsaid it captured the mysterious figure well.\n\nHead to Lookout Landing and show the picture\nto Josha.",
+  "Complete": "You returned to Lookout Landing with your\npicture of the statue. Josha said you\u0027d made\na big discovery that could lead to truly\nunderstanding what the Depths are.\n\nShe\u0027s going to search through what others have\nfound in the Depths, hoping to find more slate\nfragments with these mysterious people."
+}

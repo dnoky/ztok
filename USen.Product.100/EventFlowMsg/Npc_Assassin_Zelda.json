@@ -1,0 +1,15 @@
+{
+  "talk_1000": "\u003csp:3:0:2:0500\u003e\u003csnd:Description_02\u003eExcuse me, traveler.\u003csp:5:0:0\u003e Do you...know me,\nby any chance?\u003csp:0:4:0\u003eWho am I? \u003csp:5:0:0\u003eWhere am I? \u003csp:5:0:0\u003eAm I some sort\nof villain? \u003csp:5:0:0\u003eOr a force for good?\u003csp:0:4:0\u003eI just \u003csp:5:0:0\u003ecan\u0027t remember...",
+  "talk_1001": "\u003csp:3:0:2:0500\u003e\u003csnd:Description_02\u003eNothing makes sense to me anymore...\nWho am I, really?",
+  "talk_1010": "\u003csp:3:0:2:0800\u003e\u003csnd:ZeldaTalkPositive_01\u003eA villain! That\u0027s right, I\u0027m a villain!\u003csp:5:0:0\u003e Though\nthat\u0027s a bit disappointing to hear.\u003csp:0:4:0\u003eBut I guess it was inevitable that you\nwould find me out.",
+  "talk_1011": "\u003csp:3:0:2:0100\u003eI didn\u0027t think you would fall for the same\ntrick again...\u003csp:0:4:0\u003eClearly Zelda makes for good bait!",
+  "talk_1020": "\u003csp:3:0:2:0200\u003e\u003csnd:Beware_04\u003eWhen we find the real Zelda, we\u0027ll send\nher straight to you!\u003csp:1:3:4:5a000000\u003e",
+  "talk_1012": "\u003csp:3:0:2:0800\u003e\u003csnd:ZeldaTalkPositive_01\u003eZelda! That\u0027s right, I\u0027m Princess Zelda.\u003csp:5:0:0\u003e\nThank you!\u003csp:5:0:0\u003e Now I remember.",
+  "talk_1021": "\u003csp:3:0:2:0200\u003e\u003csnd:Beware_04\u003e\u003csp:0:2:2:7d00\u003eVengeance for Master Kohga!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1003": "\u003csp:3:0:2:0200\u003e\u003csnd:Beware_04\u003eWhat gives? You looking for a fight?\n\n\n\u003csp:3:0:2:0901\u003ePeople will realize I\u0027m in the Yiga Clan\nif you get too close in that getup!\n\nWhat\u0027ll I do if someone sees through my\nperfect disguise?!",
+  "0000": "A villain.",
+  "talk_1004": "\u003csp:3:0:2:0900\u003e\u003csnd:Beware_00\u003eYou better not ruin this for me.",
+  "near_0000": "Who...am I?",
+  "0001": "You\u0027re Princess Zelda.",
+  "talk_1014": "\u003csp:3:0:2:0100\u003eI was pretending to have lost my memory\nto lower your guard. \u003csp:5:0:0\u003eDid it work?"
+}

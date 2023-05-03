@@ -1,0 +1,9 @@
+{
+  "Talk_01": "\u003csp:3:0:2:0700\u003e\u003csnd:Tired_01\u003eThis training is tough, but it\u0027s worth the\npain knowing each moment of preparation\nwill help me aid King Sidon and you!",
+  "BlackZelda_03": "\u003csp:3:0:2:0800\u003e\u003csnd:LaughS\u003eI made a lot of friends after leaving the\ndomain and coming here.\n\n\u003csnd:Humming_01\u003eI met Rito, Gorons, Gerudo, \u003csp:5:0:0\u003eand also\nHylians.\u003csp:5:0:0\u003e I will do my very best to protect\nthem all.",
+  "BlackZelda_04": "\u003csp:3:0:2:0700\u003e\u003csnd:Chat\u003eThere are folks from all over Hyrule\ngathered at this fort.\n\nIf we can all join our strength together,\nwe have nothing to fear.",
+  "talk0000": "\u003csp:3:0:2:0301\u003e\u003csnd:Unconscious_00\u003eUrgh... \u003csp:5:1:0\u003eArgh... \u003csp:5:1:0\u003eIf only that sludge would\nstop falling.",
+  "BlackZelda_01": "\u003csp:3:0:2:0700\u003e\u003csnd:QuestionNormal\u003eIs it true that Princess Zelda has\nbeen found?",
+  "talk0001": "\u003csp:3:0:2:0301\u003e\u003csnd:Painful\u003eUrgh... \u003csp:5:1:0\u003eUrp!\u003csp:5:1:0\u003e My health...\u003csp:5:0:0\u003eis suffering a\ngreat deal.",
+  "Talk_00": "\u003csp:3:0:2:0700\u003eI had never left Zora\u0027s Domain before this,\nso living here feels very new to me.\n\n\u003csnd:LaughS\u003eIt is interesting...even if I do have to train\nall day."
+}

@@ -1,0 +1,7 @@
+{
+  "Talk_0001": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting_01\u003eAh, hello, Link. I should have known we\nwould run into you here.\u003csp:0:4:0\u003eWe came to investigate the geoglyph in\nthis region, but the sludge falling from\nthe sky complicated things.\n\u003csp:3:0:2:0100\u003e\u003csnd:Happy_00\u003eFortunately, that muck is gone now, and\nour efforts to research the local geoglyph\nmay resume.",
+  "Talk_0004": "\u003csp:3:0:2:0700\u003eThe ancient literature states that the\n\u003cclr:0000\u003eForgotten Temple\u003cclr:ffff\u003e is at the bottom of\na canyon in Hebra.\nWe believe that it will be integral to our\nunderstanding of the geoglyphs.\n\nInvestigating the local geoglyph is still\nimportant, but I would like to find that\ntemple as soon as possible.",
+  "Talk_0002": "\u003csp:3:0:2:0c01\u003e\u003csnd:Think\u003eThe ancient literature says that the\n\u003cclr:0000\u003eForgotten Temple\u003cclr:ffff\u003e holds information that\ncould aid us in finding the geoglyphs.\nI propose we start there. We can find the\ntemple in a canyon in Hebra.",
+  "Near_0001": "It should be nearby...",
+  "Talk_0003": "\u003csp:3:0:2:0701\u003e\u003csnd:Trouble\u003eThere have been reports of a geoglyph in\nthis area. We plan on taking to the skies\nto look for it."
+}

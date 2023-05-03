@@ -1,0 +1,6 @@
+{
+  "Dm_GE_0013_01": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting_00\u003eOh, Link. You came.\n\n\nLook at the mural on this wall.",
+  "Dm_GE_0013_02": "\u003csp:3:0:2:0000\u003e\u003csnd:Think_00\u003eIt is thought to have been painted by\nancestors of the Gerudo.\n\nIt appears that when they created it, they\nwere also using this shelter to hide.\n\nPerhaps the Gerudo of the distant past\nwere also beset by some great disaster.\n\nAnyway, the writing on the mural says...\n\n\n\u003csp:3:0:2:0c00\u003e\u003csnd:Think_01\u003e\"Standing back-to-back with the throne,\nwitness red pillars across a vast sea.\n\n\"Unite the pillars in light to reveal the\nlightning stone and open the way.\n\n\"You who can hear my voice, come to me.\nI await you.\"\n\n\u003csp:3:0:2:0000\u003e\u003csnd:Understand_00\u003eThat mysterious voice that spoke to us...\n\n\nIts words reminded me of this mural.",
+  "Dm_GE_0013_05": "\u003csp:3:0:2:0001\u003e\u003csnd:SurpriseS_01\u003eWait... You already solved the riddle and\nhave figured out where to go?\n\nWell done, Link. In that case, let\u0027s head\nover there right away!",
+  "Dm_GE_0013_03": "\u003csp:3:0:2:0c00\u003e\u003csnd:Sad_01\u003eThis image must represent a location of\nsome kind, and the engraved words are a\nriddle to discovering its location.\nIt\u0027s the only explanation that\nmakes sense."
+}

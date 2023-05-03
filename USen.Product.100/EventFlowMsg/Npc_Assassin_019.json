@@ -1,0 +1,15 @@
+{
+  "talk_1042": "\u003csp:3:0:2:0700\u003eHey, could you...\u003csp:5:0:0\u003eplease report...\u003csp:5:0:0\u003ea freshly\ndiscovered abandoned mine for me?\u003csp:5:0:0\u003e Or,\neven better, keep watch while I report it?\n\u003csp:3:0:2:0a00\u003e\u003csnd:Ease\u003eBlech... \u003csp:5:0:0\u003eThe Depths wasn\u0027t great, but at\nleast it was \u003cclr:0000\u003enever too hot or cold\u003cclr:ffff\u003e.\n\nI hope they\u0027ll reassign me soon.\u003csp:5:0:0\u003e \nAnywhere\u0027s got to be better than Eldin.",
+  "talk_1000": "\u003csp:3:0:2:0a00\u003eUgh, it\u0027s sooo hot...",
+  "talk_1001": "\u003csp:3:0:2:0a00\u003eToo hot...",
+  "talk_1010": "\u003csp:3:0:2:0900\u003eWhat do you mean, what\u0027s the matter?\u003csp:5:0:0\u003e\nIt\u0027s \u003cclr:0000\u003ehot\u003cclr:ffff\u003e! This place is sweltering!\u003csp:5:1:0\u003e Do you\nhave fireproof skin or something?\n\u003csp:3:0:2:0a01\u003e\u003csnd:Ease_00\u003eBlech, \u003csp:5:0:0\u003eI\u0027ll give the Depths one thing...it\u0027s\nusually \u003cclr:0000\u003enever too hot or cold\u003cclr:ffff\u003e.\n\nWherever I\u0027m assigned next,\u003csp:5:0:0\u003e I hope it\u0027s\nsomewhere other than Eldin.\n\n\u003csp:3:0:2:0701\u003eHuh?\u003csp:5:0:0\u003e Why am I \"assigned\" anywhere?",
+  "talk_1011": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eIsn\u0027t that obvious?\n\n\nI\u0027m in the Yiga Clan. \u003csp:5:0:0\u003eAnd we\u0027ve been\nassigned to take you down!",
+  "talk_1020": "\u003csp:3:0:2:0900\u003e\u003csp:0:2:2:7d00\u003eYou\u0027ll fry—er, die—here!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1030": "\u003csp:3:0:2:0a00\u003eThis \u003cclr:0000\u003eheat\u003cclr:ffff\u003e is miserable.\u003csp:5:0:0\u003e What a scorcher.\n\n\nI\u0027m so dizzy, I feel like I\u0027m getting\ndelirious...\n\n\u003csnd:Ease_01\u003eI swear I can hear his voice\u003csp:5:0:0\u003e right nearby...\n\n\nThat detestable hero...",
+  "talk_1021": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0900\u003eThis is for Master Kohga!\u003csp:1:3:4:5a000000\u003e\u003csp:0:2:2:6400\u003e",
+  "0000": "What\u0027s the matter?",
+  "talk_1040": "\u003csp:3:0:2:0900\u003eThat Link!",
+  "near_0000": "Hot...",
+  "0001": "Good luck with that.",
+  "talk_1041": "\u003csp:3:0:2:0700\u003eHey...\u003csp:5:0:0\u003e Perfect timing.\n\n\nCould you go tell the hideout that I found\nan abandoned mine?\u003csp:5:1:0\u003e Or better yet, stay\nhere while I do it?\n\u003csp:3:0:2:0a00\u003eI just...\u003csp:5:0:0\u003ecan\u0027t take this place anymore...\u003csp:5:0:0\u003e\nThe \u003cclr:0000\u003eheat\u0027s totally out of control\u003cclr:ffff\u003e.\n\n\u003csnd:Ease\u003eI mean, the Depths aren\u0027t my favorite\nplace either, but at least they\u0027re \u003cclr:0000\u003enot\ntoo hot or too cold\u003cclr:ffff\u003e.\nWherever I get assigned next,\u003csp:5:0:0\u003e I just hope\nit isn\u0027t Eldin..."
+}

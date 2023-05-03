@@ -1,0 +1,19 @@
+{
+  "talk_1010": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eOh, are you investigating this place too?",
+  "talk_1011": "\u003csp:3:0:2:0700\u003e\u003csnd:Chat_01\u003eLook...\u003csp:5:0:0\u003e See how this \u003cclr:0000\u003estone statue\u003cclr:ffff\u003e has\nfallen into the wall?\n\nThese statues are typically set in rows\nwith one sight line leading to the next\nuntil they finally stop at an \u003cclr:0000\u003eold mine\u003cclr:ffff\u003e.\nBut this is different. This chain of statues\nends here.\u003csp:5:0:0\u003e I\u0027ve looked all over, but there\u0027s\nno sign of an old mine.",
+  "talk_1040": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eI\u0027m right, aren\u0027t I?",
+  "talk_1012": "\u003csp:3:0:2:0c00\u003eCould it somehow be \u003cclr:0000\u003einside this wall\u003cclr:ffff\u003e...\nBut I don\u0027t see any kind of entrance.",
+  "talk_1041": "\u003csp:3:0:2:0800\u003eOh, good timing!",
+  "talk_1013": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS\u003eOh, well.\u003csp:5:0:0\u003e I found you here,\u003csp:5:0:0\u003e so at least\nthe statues led me to a hero.",
+  "talk_1042": "\u003csp:3:0:2:0c00\u003eNormally, \u003cclr:0000\u003estone statues \u003cclr:ffff\u003elike these are\narranged in a row leading to an \u003cclr:0000\u003eold mine\u003cclr:ffff\u003e.\n\nBut this row doesn\u0027t lead anywhere.\u003csp:5:0:0\u003e\nI\u0027ve looked all over, but there\u0027s no sign\nof an old mine.\n\u003csnd:Sad\u003eIf there\u0027s no way to get \u003cclr:0000\u003einside the wall\u003cclr:ffff\u003e,\nmaybe it\u0027s just a misplaced set of statues.\nStill, it\u0027s weird...",
+  "talk_1043": "\u003csp:3:0:2:0700\u003eThis \u003cclr:0000\u003estatue\u003cclr:ffff\u003e\u0027s the same as the others,\nright?\u003csp:5:0:0\u003e The ones that lead to an\n\u003cclr:0000\u003eabandoned mine\u003cclr:ffff\u003e?\nBut this row...ends here.\u003csp:5:0:0\u003e I\u0027ve looked all\nover, but there\u0027s no sign of an old mine.",
+  "talk_1020": "\u003csp:3:0:2:0900\u003e\u003csp:0:2:2:7d00\u003eYour life is mine!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1044": "\u003csp:3:0:2:0c00\u003e\u003csnd:QuestionNormal\u003eDo you know if there\u0027s anything \u003cclr:0000\u003einside\nthe wall\u003cclr:ffff\u003e?\u003csp:5:0:0\u003e Or even a way to get inside?",
+  "talk_1021": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0900\u003eVengeance for Master Kohga!\u003csp:1:3:4:5a000000\u003e\u003csp:0:2:2:6400\u003e",
+  "near_0000": "A dead end?",
+  "talk_1000": "\u003csp:3:0:2:0c00\u003eThat\u0027s strange.\u003csp:5:0:0\u003e There definitely should be\nsomething up ahead...",
+  "talk_1001": "\u003csp:3:0:2:0c00\u003eHow can I get past this?",
+  "0000": "What\u0027s the matter?",
+  "talk_1030": "\u003csp:3:0:2:0c00\u003e\u003csnd:QuestionNormal\u003eHey! I see what you\u0027re doing! You\u0027re\nignoring me, probably thinking, \"Ugh,\nanother Yiga Clan trap. I\u0027ll keep walking.\"",
+  "0001": "..."
+}

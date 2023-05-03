@@ -1,0 +1,11 @@
+{
+  "Near": "Marbled rock roast?",
+  "Talk_06": "\u003csp:3:0:2:0700\u003e\u003csnd:Think\u003eNo marbled rock roast? That\u0027s all I need\nto know.\n\n\u003csp:3:0:2:0800\u003e\u003csnd:Work_01\u003eYou can pass!",
+  "Talk_01": "\u003csp:3:0:2:0101\u003eProtecting Goron City\u0027s gate is my job,\nand I love every second of it.\n\n\u003csp:3:0:2:0800\u003e\u003csnd:LaughL\u003eNothin\u0027 more important than guardin\u0027\nthis here gate.",
+  "Talk_07": "The lamps are shinin\u0027 bright! Earlier, they\nwere dim from that big ol\u0027 pile of marbled\nrock roast smoldering in the city center.\nNobody\u0027s bringin\u0027 marbled rock roast in\nmy city ever again if I have somethin\u0027\nto say about it!",
+  "Talk_02": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting\u003eMornin\u0027! Noon! And night!",
+  "Talk_03": "\u003csp:3:0:2:0800\u003e\u003csnd:TalkPositive\u003eNoon! Night! And mornin\u0027!",
+  "Talk_04": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy\u003eNight! Mornin\u0027! And noon!",
+  "Talk_00": "\u003csp:3:0:2:0101\u003e\u003csnd:Think\u003eI don\u0027t much care for guardin\u0027 stuff.\n\n\nHeh, unless it\u0027s \u003cclr:0000\u003emarbled rock roast\u003cclr:ffff\u003e.",
+  "Talk_05": "\u003csp:3:0:2:0800\u003e\u003csnd:Greeting\u003eMornin\u0027! Night! And evenin\u0027! "
+}

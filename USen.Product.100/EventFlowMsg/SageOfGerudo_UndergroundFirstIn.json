@@ -1,0 +1,12 @@
+{
+  "Text_05": "\u003csp:3:0:2:0700\u003eThe \u003cclr:0000\u003eGibdos\u003cclr:ffff\u003e are strange monsters that\nrecently appeared, right around the same\ntime as the sand shroud.\nThe spears we wield have surprisingly\nlittle effect on them. We\u0027ve been trying to\nfigure out new ways to fight back...",
+  "0002": "Nothing really.",
+  "Text_06": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting_01\u003eLady Riju trusts you, which is more than\nenough for me. You are free to make use\nof the inn or any of the shops in town.",
+  "Text_00": "\u003csnd:Angry_01\u003eA voe! \u003csp:5:0:0\u003eThere\u0027s a voe here! \u003csp:5:0:0\u003eStop him!",
+  "Text_07": "Is there anything else you wanted to ask?",
+  "Text_02": "\u003csp:3:0:2:0700\u003e\u003csnd:Think\u003eLady Riju is training in the ruins north of\nhere. She traveled there despite the\nchallenges the sand shroud presents...\nShe\u0027s proven herself to be an excellent\nleader... \u003csp:5:0:0\u003eAn excellent chief.\u003csp:5:1:0\u003e Still, I think\nI\u0027ll always worry about her safety.",
+  "Text_03": "\u003csp:3:0:2:0700\u003eEveryone in town has been informed of\nthe special exception you\u0027ve been given.\n\nSome may still be shocked to see you, but\ndon\u0027t take it personally.\n\nAnd, of course, feel free to make use of\nthe inn or any of the shops.\n\nThough \u003cclr:0000\u003eLady Riju\u003cclr:ffff\u003e is away—seeking a\nmeans to defeat the \u003cclr:0000\u003eGibdo\u003cclr:ffff\u003e—I am sure\nshe would welcome you as I have.\n\u003csp:3:0:2:0700\u003eDid you have questions for me?",
+  "0000": "Where is Riju?",
+  "Text_04": "\u003csp:3:0:2:0700\u003eSome may still be shocked to see you, but\ndon\u0027t take it personally. And you are\nwelcome to visit the inn or the shops.\nThough \u003cclr:0000\u003eLady Riju\u003cclr:ffff\u003e is away—seeking a\nmeans to defeat the \u003cclr:0000\u003eGibdo\u003cclr:ffff\u003e—I am sure\nshe would welcome you as I have.\n\u003csp:3:0:2:0700\u003eDid you have questions for me?",
+  "0001": "Tell me about Gibdos."
+}

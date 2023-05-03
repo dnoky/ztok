@@ -1,0 +1,6 @@
+{
+  "Name": "Rock Roast or Dust",
+  "CarryARock": "The Bedrock Bistro is running low on rock roast\nand is having trouble maintaining a steady\nsupply for their Goron clientele.\n\nIt\u0027s said that if you bring Chef Cooke a rock\nroast, \u003cclr:0000\u003ehe\u0027ll treat you to a special dish\u003cclr:ffff\u003e.",
+  "Reward": "You brought Chef Cooke a rock roast, but he\nwasn\u0027t able to give you his special \u003cclr:0000\u003edish\u003cclr:ffff\u003e\nbecause your pouch was full.\n\nMake some space, and then speak with\nChef Cooke.",
+  "Complete": "You gave Chef Cooke a rock roast, and he\ngave you \u003cclr:0000\u003eseared gourmet steak\u003cclr:ffff\u003e, his special\ndish. He said because they are always running\nlow on rock roast, he\u0027s willing to take more from\nyou, his new supplier, from now on."
+}

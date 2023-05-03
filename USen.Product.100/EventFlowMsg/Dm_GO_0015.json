@@ -1,0 +1,10 @@
+{
+  "Dm_GO_0015_Text_003_c": "Heed my words...",
+  "Dm_GO_0015_Text_004_a": "\u003csp:1:3:4:78000000\u003eHear that?\u003csp:5:0:0\u003e There it is again!",
+  "Dm_GO_0015_Text_001_b": "Young, little rock...",
+  "Dm_GO_0015_Text_002_b": "The gate you must pass through is firmly\nlocked with five padlocks.",
+  "Dm_GO_0015_Text_003_b": "You have the power to unlock them all.\nDo so, then the gate should open.",
+  "Dm_GO_0015_Text_004_b": "\u003csp:3:0:2:0b00\u003eNo denyin\u0027. I heard it loud and clear this\ntime. But who could it be?\n\nAnd what did they mean by \"young,\nlittle rock\"?\n\n\u003csp:3:0:2:0c01\u003e\u003csnd:Think_00\u003eThey did tell us how to open the gate, so\nthey can\u0027t be all bad, right?",
+  "Dm_GO_0015_Text_005_b": "\u003csp:3:0:2:0c01\u003eSo all we gotta do is unlock the five locks,\nand then we can get in there?",
+  "Dm_GO_0015_Text_007_b": "\u003csp:3:0:2:0b00\u003e\u003csnd:Notice\u003eDid you see that? The gate—it moved a\nlittle just now, goro!"
+}

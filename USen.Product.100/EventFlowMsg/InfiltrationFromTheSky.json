@@ -1,0 +1,13 @@
+{
+  "talk005": "\u003csp:3:0:2:0a00\u003eIt\u0027s covered in lost fog up ahead, so only\nKoroks can go there...\n\n\u003csp:3:0:2:0c01\u003eYou can see an island floating in the sky\nfrom there.\u003csp:5:0:0\u003e I wonder if you could see into\nthe forest \u003cclr:0000\u003efrom that sky island\u003cclr:ffff\u003e too...",
+  "talk006": "\u003csp:3:0:2:0000\u003eIt\u0027s here!",
+  "talk007": "\u003csp:3:0:2:0700\u003eYou can see an island floating in the sky\nfrom there. I wonder if you could see into\nthe forest \u003cclr:0000\u003efrom that sky island\u003cclr:ffff\u003e too...",
+  "talk001": "\u003csp:3:0:2:0c00\u003eIt\u0027s been a while, so maybe I should go\nsee how it\u0027s going over there.",
+  "talk008": "\u003csp:3:0:2:0b00\u003eHuh?!\u003csp:5:0:0\u003e You\u0027re not even a Korok, and you\nstill got there?! Woooooow!\n\n\u003csp:3:0:2:0000\u003eIsn\u0027t it great? It\u0027s my secret, even from\nthe other Koroks. Don\u0027t tell!\n\nI\u0027m gonna go check on it since I haven\u0027t\nvisited in a while. See you!",
+  "near001": "I\u0027ll go see how it\u0027s doing...",
+  "talk002": "\u003csp:3:0:2:0800\u003eUp ahead, there\u0027s a special place just\nfor Maca!\n\n\u003csp:3:0:2:0701\u003eIn the forest, there\u0027s a wide, open space,\nand right in the middle, there\u0027s a\n\u003cclr:0000\u003egreen swirl\u003cclr:ffff\u003e.\n\u003csp:3:0:2:0801\u003eAnd! You \u003cclr:0000\u003ecan see an island floating in the\nsky\u003cclr:ffff\u003e from there! \u003csp:5:0:0\u003eMaca loves that place.",
+  "0000": "Over there?",
+  "talk003": "\u003csp:3:0:2:0700\u003eBye-bye!",
+  "0001": "Goodbye.",
+  "talk004": "\u003csp:3:0:2:0701\u003eOh, but since it\u0027s covered in lost fog,\nonly Koroks can go there.\n\n\u003csp:3:0:2:0a00\u003eSo you can\u0027t come with me. But...\u003csp:5:1:0\u003e\n\n\n\u003csp:3:0:2:0700\u003eI\u0027ll tell you where to find it.\u003csp:5:1:0\u003e Could you\nshow me your \u003cclr:0000\u003emap\u003cclr:ffff\u003e?"
+}

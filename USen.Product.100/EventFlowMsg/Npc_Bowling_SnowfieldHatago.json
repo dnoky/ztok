@@ -1,0 +1,12 @@
+{
+  "0002": "What do you mean?",
+  "Talk_02": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eI\u0027m talking about the \u003cclr:0000\u003eblizzard \u003cclr:ffff\u003eoutside.\u003csp:0:4:0\u003eThis vicious storm began when so many\nother terrible things started, and it hasn\u0027t\nstopped yet.\nIt\u0027s impossible to walk around in this\nkind of \u003cclr:0000\u003eblizzard\u003cclr:ffff\u003e, so I\u0027ve been forced to\nstay here at the stable.",
+  "Talk_11": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive\u003eThe vicious \u003cclr:0000\u003eblizzard\u003cclr:ffff\u003e outside started when\nso many other awful things began going\nwrong. Maybe it will never stop.\nBut the \u003cclr:0000\u003evillage where the Rito live\u003cclr:ffff\u003e—to the\nwest of here—is in a dire situation.\n\n\u003csp:3:0:2:0c00\u003e\u003csnd:Sad_00\u003eThey can\u0027t get enough food in this\nextreme cold. There\u0027s less and less\nfor them to eat.",
+  "Near02": "The blizzard won\u0027t stop...",
+  "Talk_03": "\u003csp:3:0:2:0001\u003eBut the \u003cclr:0000\u003evillage where the Rito live\u003cclr:ffff\u003e—off\nto the west of here—is in an even\nworse situation.\n\u003csp:3:0:2:0c01\u003e\u003csnd:Sad_00\u003eIn this extreme cold and in this\nblizzard, they can\u0027t get enough\nfood to feed themselves.\nThe villagers there are desperate to\nfigure out what\u0027s gone wrong with the\nweather and how to feed everyone.",
+  "Talk_12": "\u003csp:3:0:2:0000\u003e\u003csnd:Greeting_01\u003eHello there...\u003csp:5:0:0\u003e Still stranded here, as you\ncan see.",
+  "Talk_04": "\u003csp:3:0:2:0700\u003e\u003csnd:Think_00\u003eIf you\u0027re going to head to \u003cclr:0000\u003eRito Village\u003cclr:ffff\u003e,\nprepare carefully before you go.",
+  "Near01": "This is awful...",
+  "Talk_01": "\u003csp:3:0:2:0a00\u003e\u003csnd:Sad_01\u003eUgh...\u003csp:5:0:0\u003ewhat a mess.",
+  "0001": "What\u0027s the matter?"
+}

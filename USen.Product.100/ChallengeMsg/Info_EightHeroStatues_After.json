@@ -1,0 +1,9 @@
+{
+  "Step3": "Setting the giant orb into the entrance to the\nunderground chamber beneath the North\nGerudo Ruins opened a locked door and\nrevealed the path to the sanctuary. Is the\nsecret of the eighth hidden somewhere within?",
+  "Step4": "You discovered a stela deep within the\nsanctuary. Apparently, the eighth hero was\na Hylian voe who saved Gerudo Town long ago.\n\nReturn to Gerudo Town and let Rotana know\nof your findings.",
+  "Name": "The Mysterious Eighth",
+  "Complete": "You told Rotana about what you read on the\nstela deep within the sanctuary. She was\nexcited to learn the truth about the eighth hero\nafter so many years of it being shrouded in\nmystery. She insisted on listing you as a\nco-author in the full expedition report.",
+  "Step1": "Rotana has stayed behind to restore the spirits\nas described on the stelae. She believes the\norb she gave you is one of these spirits, but\nshe doesn\u0027t know where to find any of the\nother orbs.\n\nAccording to the stela, returning the spirits to\nthe seven heroine statues will reveal the eighth.",
+  "Step1_GoRoom": "Returning the spirits to the seven heroines\u0027\nstatues opened a path to a hidden room.\n\nYou should inspect the room for any signs of\nthe true history.",
+  "Step2": "Inside the hidden room was a giant orb, which\nis the key to a sanctuary. According to Rotana,\nthe Gerudo have an underground sanctuary\nbeneath the North Gerudo Ruins.\n\nShe asked you to \u003cclr:0000\u003ecarry the giant orb to the\nentrance of the sanctuary\u003cclr:ffff\u003e."
+}

@@ -1,0 +1,19 @@
+{
+  "near_02": "An apple could work...",
+  "Talk_1_2": "\u003csp:3:0:2:0a01\u003eI\u0027m plumb out of \u003cclr:0000\u003eapples\u003cclr:ffff\u003e! If I don\u0027t have my\nmost important ingredient, say goodbye to\nrich, full flavor!",
+  "Talk_1_10": "\u003csp:3:0:2:0701\u003e\u003csnd:LaughS_00\u003eI like to make a big deal out of it, but...\n\n\nAnyone can make it. All you need is an\napple, a mushroom, and a pot.\n\n\u003csp:3:0:2:0701\u003eYou should try making some!",
+  "Talk_1_11": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseS_01\u003eMmm... My nose is detecting an aroma, a\nsweet, tangy, pleasant aroma.\u003csp:5:1:0\u003e Could it\nbe?\u003csp:5:1:0\u003e Do you have an \u003cclr:0000\u003eapple\u003cclr:ffff\u003e?",
+  "Talk_1_4": "\u003csp:3:0:2:0c01\u003e\u003csnd:TalkPositive_00\u003eI thought I was so ready to energize folks\naround here with my \u003cclr:0000\u003efruit and mushroom\nmix\u003cclr:ffff\u003e...\nBut I\u0027ve got no \u003cclr:0000\u003eapples\u003cclr:ffff\u003e! I\u0027m missing my\nmost important ingredient!",
+  "Talk_1_12": "\u003csp:3:0:2:0a01\u003e\u003csnd:Sad_00\u003eRight. Of course. As if you\u0027d just magically\nhave one... My nose is rarely mistaken, \nbut I understand.\nNow, if you did have an \u003cclr:0000\u003eapple\u003cclr:ffff\u003e, I\u0027d let you\nin on some \u003cclr:0000\u003efruit and mushroom mix\u003cclr:ffff\u003e\ngoodness. So keep that in mind.",
+  "Talk_1_5": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseL_00\u003eWow! You\u0027re really generous!\u003csp:0:4:0\u003e\u003csp:3:0:2:0801\u003eI\u0027m giving you first crack at some grub.\nHold on a sec!",
+  "Talk_1_13": "\u003csp:3:0:2:0b01\u003e\u003csnd:Notice_01\u003eIt, uh, seems like your pouch is full.\n\n\nIf you want to sample my fabulous\ncooking, you\u0027ll need to be able to hold it!",
+  "Talk_1_14": "\u003csp:3:0:2:0701\u003e\u003csnd:LaughS_01\u003eNew kid! It looks like you cleared some\nspace in your pouch.\n\nI\u0027ll get on with the cooking right away!",
+  "Talk_1_6": "\u003csp:3:0:2:0a01\u003e\u003csnd:Think_01\u003eIf I just had an \u003cclr:0000\u003eapple\u003cclr:ffff\u003e, I could whip up\nsome \u003cclr:0000\u003efruit and mushroom mix\u003cclr:ffff\u003e...",
+  "Talk_1_15": "\u003csp:3:0:2:0801\u003e\u003csnd:LaughL_01\u003eIt\u0027ll be better for both of us if you sample\nmy cooking while it\u0027s piping hot!\n\nHurry up, and clear some space in your\npouch so I can get cooking!",
+  "Talk_1_9": "\u003csp:3:0:2:0801\u003eI\u0027m calling it \"Burmano\u0027s special fruit and\nmushroom mix\"! Looks tasty, doesn\u0027t it?",
+  "0000": "Take this.",
+  "0001": "Don\u0027t give up.",
+  "near_01": "Healthy cooking... Hmm...",
+  "Talk_1_1": "\u003csp:3:0:2:0701\u003e\u003csnd:Angry_00\u003eHey, are you new here? You may scoff,\nbut I know a fresh face when I see one.\u003csp:0:4:0\u003e\u003csp:3:0:2:0801\u003eI can say that because I\u0027m a newcomer\ntoo! My name\u0027s Burmano, and they put\nme in charge of cooking for some reason.\nI want to say something fancy like, \"For\ntoday\u0027s menu, we have a \u003cclr:0000\u003efruit and\nmushroom mix\u003cclr:ffff\u003e that\u0027ll rev you right up!\"\u003csp:5:1:0\u003e\n\u003csp:3:0:2:0701\u003e\u003csnd:Think_01\u003eYeah... I was really looking forward to\nsaying that, but...",
+  "0002": "I don\u0027t have one."
+}

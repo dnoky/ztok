@@ -1,0 +1,20 @@
+{
+  "New": "New",
+  "T_Slash_00": "/",
+  "NumAll": "\u003csp:2:e:2c:2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd\u003e",
+  "T_Slash_01": "/",
+  "1000": "Cancel Favorite",
+  "Header_Favorite": "Favorites",
+  "1001": "Set as Favorite",
+  "Pa_NoRecord_00-T_Dot_00": "・\n・\n・",
+  "Pa_Guide_00-T_Guide_00": "Select",
+  "Header_Log": "History",
+  "Header_ReadyMadeDraft": "Schematics",
+  "Pa_Guide_03-T_Guide_00": "Back",
+  "Info_FavoriteFull": "Favorites are full",
+  "0000": "Favorites:",
+  "0001": "History:",
+  "Pa_Guide_02-T_Guide_00": "Confirm",
+  "Num": "\u003csp:2:e:2c:2600530069006d0070006c00650049006e00740046006f0072004d00650073007300610067006500ffff01cd\u003e",
+  "Pa_NoRecord_00-T_NoRecord_00": "End of record"
+}

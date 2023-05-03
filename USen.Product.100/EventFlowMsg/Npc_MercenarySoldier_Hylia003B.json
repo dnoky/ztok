@@ -1,0 +1,5 @@
+{
+  "Talk_02": "\u003csp:0:2:2:5000\u003e\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS\u003eShhh... The captain\u0027s still talking...\u003csp:0:2:2:6400\u003e",
+  "Talk_01": "\u003csp:0:2:2:5000\u003e\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS_01\u003eShhh... The captain\u0027s talking...\u003csp:0:2:2:6400\u003e",
+  "Talk_03": "\u003csp:0:2:2:5000\u003e\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS\u003eShhh...\n\n\nWait...\u003csp:5:0:0\u003e Oh! \u003csp:5:0:0\u003eSorry, master swordsman!\u003csp:0:2:2:6400\u003e"
+}

@@ -1,0 +1,21 @@
+{
+  "NewText_67": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting\u003eHm? Well, well. Look who\u0027s here...",
+  "NewText_73": "\u003csp:3:0:2:0101\u003e\u003csnd:TalkPositive\u003eIf you\u0027re planning to travel, \u003cclr:0000\u003eEnchanted\u003cclr:ffff\u003e\nshould be your first stop!\n\nThe \u003cclr:0000\u003eradiant attire\u003cclr:ffff\u003e would suit you, I think.",
+  "NewText_68": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting\u003eHm? Well, well. Look who\u0027s here. You\u0027re\nlooking spritely, I must say.",
+  "NewText_74": "\u003csp:3:0:2:0401\u003e\u003csnd:Notice_00\u003eLet me get a good look at that outfit...\n\n\n\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_01\u003eThat\u0027s stealth attire, isn\u0027t it? My, my!\nIt suits you!\n\nYou\u0027ll be happy with your purchase.\nI\u0027m sure of it!",
+  "NewText_69": "\u003csp:3:0:2:0101\u003e\u003csnd:Think\u003eHm? Well, well. Look who\u0027s here. You\u0027re\nlooking peppy, even in this rain.",
+  "NewText_75": "\u003csp:3:0:2:0401\u003e\u003csnd:Notice_00\u003eLet me get a good look at that outfit.\n\n\n\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_01\u003eThat\u0027s radiant attire, isn\u0027t it? My, my!\nIt suits you!\n\nYou\u0027ll be happy with your purchase.\nI\u0027m sure of it!",
+  "near01": "\u003csnd:CallFar\u003eWelcome!",
+  "near02": "Zzz...",
+  "ReturnHome_01": "\u003csp:3:0:2:0401\u003e\u003csnd:SurpriseM_00\u003eHyah!\u003csp:5:1:0\u003e",
+  "ReturnHome_02": "\u003csp:3:0:2:0701\u003eHuh?\u003csp:5:1:0\u003e\u003csp:0:4:0\u003eI wondered who was in my house, but I\nrecognize you. The one who gave us the\nporridge, right?\u003csp:0:4:0\u003e\u003csnd:LaughS_01\u003eIf you came hoping to buy clothes, do me\na favor and go to Enchanted instead.",
+  "ReturnHome_03": "\u003csp:3:0:2:0501\u003eHuh? I recognize you.\u003csp:0:4:0\u003e\u003csnd:LaughS_01\u003eIf you came hoping to buy clothes, \u003csp:5:0:0\u003edo me\na favor and go to Enchanted instead.",
+  "NewText_63": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive\u003eI\u0027m just leaving for the shop. Wait a\nmoment, if you please.",
+  "NewText_70": "\u003csp:3:0:2:0801\u003e\u003csnd:Happy_00\u003eThat porridge... That was \u003cclr:0000\u003esunny veggie\nporridge\u003cclr:ffff\u003e, wasn\u0027t it?\n\nI\u0027ve never tasted anything quite like that!\nIt was as if poison were drawn from my\nbody. And such a comforting flavor too!\n\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_01\u003eI feel like I have a whole new lifetime\nahead of me.",
+  "NewText_58": "\u003csp:3:0:2:0101\u003e\u003csnd:TalkPositive\u003eIf you\u0027re planning to travel, \u003cclr:0000\u003eEnchanted\u003cclr:ffff\u003e\nshould be your first stop!\n\nThe \u003cclr:0000\u003estealth attire\u003cclr:ffff\u003e would suit you, I think.",
+  "NewText_64": "\u003csp:3:0:2:0701\u003e\u003csnd:Ease_01\u003eI\u0027m going to rest...\n\n\nBut \u003cclr:0000\u003eEnchanted \u003cclr:ffff\u003eis still open, so you still\nhave time to shop!",
+  "NewText_65": "\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_01\u003eMy, my! What brought you here? Were\nyou worried about me, hm?\n\n\u003csp:3:0:2:0801\u003e\u003csnd:LaughS_01\u003eWell, don\u0027t you fret. Thanks to you, I\u0027m\nfeeling better than I ever have.",
+  "NewText_71": "\u003csp:3:0:2:0101\u003e\u003csnd:LaughS_01\u003eNo need to worry. All better...",
+  "NewText_66": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting\u003eWell, well. Look who\u0027s here. Isn\u0027t it a bit\nearly, hm?",
+  "NewText_72": "\u003csp:3:0:2:0801\u003e\u003csnd:TalkPositive\u003eWe sure appreciate your business! You\u0027re\none of our very best customers.\n\nRemember, we\u0027re happy to buy if you\u0027re\nselling. So visit \u003cclr:0000\u003eEnchanted\u003cclr:ffff\u003e when you have\nbusiness to do!"
+}

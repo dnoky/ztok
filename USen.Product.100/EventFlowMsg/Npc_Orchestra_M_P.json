@@ -1,0 +1,15 @@
+{
+  "Talk0002": "\u003csp:3:0:2:0700\u003eIf you\u0027re in the mood to chat, there are\nplenty of other travelers here.\u003csp:0:4:0\u003eSee the ones riding on wagons? Those\nare traveling merchants.\u003csp:0:4:0\u003eIf you\u0027re in the market for anything, you\nmight get it at a bargain by asking around.",
+  "Greeting_Noon_M_P": "\u003csp:3:0:2:0701\u003eI\u0027m having a drumming showdown with\nthe setting sun to see whose passion\nburns brighter.",
+  "Talk0003": "\u003csp:3:0:2:0700\u003eIf you\u0027re in the mood to chat, there are\nplenty of other travelers here.\u003csp:0:4:0\u003eAnyone dressed in that Cece-brand stuff\nis guaranteed to know lots about clothes.\u003csp:0:4:0\u003eIf you\u0027re ever having trouble with your\noutfit, you could do worse than to ask one\nof them.",
+  "Greeting_Morning_M_P": "\u003csp:3:0:2:0701\u003eI\u0027m having a drumming showdown with the\nsun to see which of us is more on fire.",
+  "Talk0004": "\u003csp:3:0:2:0700\u003eIf you\u0027re in the mood to chat, there are\nplenty of other travelers here.\u003csp:0:4:0\u003eThe ones with the impressive equipment\nare with the Zonai Survey Team.\u003csp:0:4:0\u003eThey\u0027re looking into any odd goings-on\ncaused by the Upheaval, as well as those\nruins that have been raining from the sky.\u003csp:0:4:0\u003eIf you\u0027re curious about anything you see\nin this area, odds are they\u0027re the experts.",
+  "RideSeatCower": "W-watch out!",
+  "Greeting_Evening_M_P": "\u003csp:3:0:2:0701\u003eI\u0027m having a drumming showdown with the\nmoon to see which of us shines brighter.",
+  "Talk0005": "\u003csp:3:0:2:0c00\u003eThough if you walk up to them looking like\nthat, I don\u0027t know whether they\u0027d talk or\nlock you up so they can study you.",
+  "RideSeatDrown": "I can\u0027t swim!",
+  "Greeting_Morning_M_P_00": "\u003csp:3:0:2:0700\u003eCouldn\u0027t resist my beats, huh? Don\u0027t feel\nbad. No one can.",
+  "Greeting_Snow_M_P": "\u003csp:3:0:2:0701\u003eI was having a drumming showdown with\nthe snow to see which of us is cooler.",
+  "Greeting_Rain_M_P": "\u003csp:3:0:2:0701\u003eI was having a drumming showdown with\nthe rain to see who could pound out a\nrhythm fastest.",
+  "Talk0001": "\u003csp:3:0:2:0101\u003e\u003csnd:Greeting_01\u003eOh, hey! \u003csp:5:1:0\u003eYou seem like a man on\nthe move.\u003csp:0:4:0\u003eIt\u0027s a shame we\u0027ve never gotten to\nperform with you.\u003csp:0:4:0\u003e\u003csp:3:0:2:0c00\u003eBut we\u0027re short on instruments, so...hmm.\u003csp:5:1:0\u003e\nOh, I know! \u003csp:5:1:0\u003eYou could be our vocalist.\u003csp:0:4:0\u003e\u003csp:3:0:2:0001\u003eWith our heartfelt rhythm and your\nstrong, clear voice...\u003csp:0:4:0\u003e\u003csp:3:0:2:0800\u003e\u003csnd:LaughL_01\u003eWe\u0027d REALLY shake up these stables!"
+}

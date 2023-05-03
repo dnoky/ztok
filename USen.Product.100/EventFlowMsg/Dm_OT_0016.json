@@ -1,0 +1,22 @@
+{
+  "Talk_0012": "No, that\u0027s still not working...",
+  "Talk_0029": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM_01\u003eWhoa! How long have you been there?!\u003csp:0:4:0\u003eYes,\u003csp:5:0:0\u003e I know it\u0027s you, Link,\u003csp:5:0:0\u003e mask and all.",
+  "Talk_0013": "\u003csp:3:0:2:0b00\u003e\u003csnd:SurpriseM_01\u003eWhoa! How long have you been there?!",
+  "Near_0000": "Wake up! Come on!",
+  "Talk_0014": "Why you little... \u003csp:5:0:0\u003eTried to catch me\noff guard, did you?!",
+  "Talk_0020": "\u003csp:3:0:2:0c00\u003e\u003csnd:LaughS_00\u003eS-\u003csp:5:1:0\u003eso yeah, you get it... \u003csp:5:1:0\u003eAnyway, I can\u0027t\nbelieve you followed me to another mine.\n\u003csp:5:1:0\u003ePersistent little pest...",
+  "Talk_0015": "\u003csp:3:0:2:0900\u003e\u003csnd:Irritation_00\u003e\u003csp:0:2:2:7d00\u003eYou...\u003csp:0:2:2:6400\u003e",
+  "Talk_0021": "In honor of our long-awaited reunion,\nI graciously allowed you to fight me\none-on-one before.",
+  "Talk_0016": "\u003csp:3:0:2:0701\u003eLike I said before, my plan has changed!\n\n\nBut we already mined up everything there\nis to mine around here...",
+  "Talk_0022": "\u003csp:3:0:2:0701\u003e\u003csnd:LaughS_01\u003eBut right now, you\u0027re the last thing\non my mind.",
+  "Talk_0017": "\u003csp:1:3:4:20000000\u003e\u003csp:3:0:2:0900\u003eSo what you saw...",
+  "Talk_0023": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0700\u003e\u003csnd:Pointing_00\u003eBecause the end is nigh!\u003csp:0:2:2:6400\u003e",
+  "Talk_0018": "\u003csp:1:3:4:1c000000\u003e\u003csp:3:0:2:0900\u003ewas just, uh...",
+  "Talk_0024": "\u003csp:3:0:2:0800\u003e\u003csnd:Custom006_00\u003eI\u0027ve got things to do, so let\u0027s make this\nreal quick.",
+  "Talk_0019": "\u003csp:3:0:2:0900\u003e\u003csp:0:2:2:7d00\u003eI was killing time!\u003csp:0:2:2:6400\u003e",
+  "Talk_0025": "\u003csp:3:0:2:0900\u003e\u003csnd:Taunt_00\u003e\u003csp:0:2:2:7d00\u003eYIGA CLAN, ATTACK!\u003csp:0:2:2:6400\u003e",
+  "Talk_0026": "\u003csp:3:0:2:0900\u003e\u003csp:0:2:2:7d00\u003e\u003csnd:Pointing_02\u003eCOWARDLY SNEAK!\u003csp:0:2:2:6400\u003e",
+  "Talk_0027": "\u003csp:1:3:4:3c000000\u003e\u003csp:3:0:2:0900\u003eYou know...",
+  "Talk_0011": "\u003csp:3:0:2:0c00\u003e\u003csnd:QuestionNormal_00\u003eUrgh. \u003csp:5:1:0\u003eWhat am I doing wrong?",
+  "Talk_0028": "Maybe my angle\u0027s off?"
+}

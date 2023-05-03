@@ -1,0 +1,21 @@
+{
+  "Talk_01": "\u003csp:3:0:2:0100\u003e\u003csnd:TalkPositive_00\u003eThere are some untrustworthy fellas rollin\u0027\naround the city right now.",
+  "0003": "Thanks for the tip...",
+  "Talk_02": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS_00\u003eSo if you\u0027re loaded up on ore, you should\nprobably sell it before you\u0027re scammed\nout of it.",
+  "Talk_03": "\u003csp:3:0:2:0900\u003e\u003csnd:Angry_01\u003e\u003csp:0:2:2:7d00\u003eHey! What are you doing?!\u003csp:0:2:2:6400\u003e",
+  "Talk_04": "\u003csp:3:0:2:0400\u003e\u003csnd:SurpriseS_00\u003eUh-oh.\u003csp:5:0:0\u003e Heehl, let\u0027s get outta here!",
+  "Talk_10": "\u003csp:3:0:2:0900\u003e\u003csnd:Angry_01\u003eWow, rude! I\u0027d never rip you off!\n\n\n\u003csp:3:0:2:0701\u003eWell...\u003csp:5:0:0\u003eI guess you DID almost get ripped\noff.\u003csp:5:0:0\u003e So your response is warranted.\n\n\u003csnd:TalkPositive_01\u003eI\u0027m not going to force you. If you decide\nyou\u0027d like to sell it, then let me know.\n\n\u003csp:3:0:2:0c01\u003eRight now, I\u0027m low on amber.\n\n\n\u003csp:3:0:2:0101\u003eIf you sell me \u003cclr:0000\u003ea parcel of 10 pieces of\namber\u003cclr:ffff\u003e, I\u0027ll buy them for \u003cclr:0000\u003ea little more\u003cclr:ffff\u003e than\nyou could sell them for at other shops.",
+  "Talk_05": "\u003csp:3:0:2:0700\u003e\u003csnd:Think_01\u003eYou almost got duped there, huh?\n\n\nNow that Death Mountain\u0027s eruptions\nhave stopped and the lava\u0027s cooled, I\u0027ve\nbeen seeing more Hylian travelers.\n\u003csp:3:0:2:0c00\u003e\u003cclr:0000\u003e\u003csnd:Sad_00\u003e\u003cclr:ffff\u003eWhich is great, except those two have\nbeen swindling travelers \u003csp:5:0:0\u003eby offering to\ntake their ore for next to nothing.\nAfter the \u003cclr:0000\u003emarbled rock roast \u003cclr:ffff\u003estarted\nsurfacing, everyone around here\u0027s been\nacting strange.\u003csp:5:1:0\u003e\n\u003csp:3:0:2:0701\u003e\u003csnd:TalkPositive_00\u003eSo be mindful of any \u003cclr:0000\u003eGorons who\u0027ve got\nmarbled rock roast\u003cclr:ffff\u003e.",
+  "Talk_11": "\u003csp:3:0:2:0900\u003eShoot. We almost had him.\n\n\nWe coulda squeezed him for every measly\nrupee he had.",
+  "Talk_06": "\u003csp:3:0:2:0100\u003e\u003csnd:Greeting\u003eWe gotta let ya in on something.",
+  "Talk_12": "\u003csp:3:0:2:0700\u003e\u003csnd:Think\u003eWe\u0027ll squeeze the next one who rolls\nalong. But we got better things to do\nat the moment.",
+  "Near_00": "Over here! It\u0027s important.",
+  "Talk_07": "\u003csp:3:0:2:0100\u003e\u003csnd:LaughS_01\u003eWe\u0027re good Gorons.\u003csp:5:1:0\u003e We\u0027ll take it off your\nhands for a great price.\n\n\u003csnd:LaughL_00\u003eHow about...\u003cclr:0000\u003ethree rupees\u003cclr:ffff\u003e for all your ore?\nWhatever ore ya got! Come on, show us\nthe goods!",
+  "Near_01": "\u003csnd:Notice\u003eHey!",
+  "Talk_08": "\u003csp:3:0:2:0700\u003e\u003csnd:LaughS_00\u003eMy name is Ramella. I\u0027m a jeweler from\nGerudo Town in the southwest of Hyrule.\n\nThe \u003cclr:0000\u003eore\u003cclr:ffff\u003e that \u003cclr:0000\u003eYunoboCo \u003cclr:ffff\u003edeals in is high\nquality, so I always come here to\nreplenish my stock.\nIf you\u0027re open to it, I\u0027ll gladly buy your ore\noff of you—for my shop.",
+  "0000": "It\u0027s all yours!",
+  "Talk_15": "\u003csp:3:0:2:0700\u003e\u003csnd:Greeting_01\u003eAll right, then. I\u0027m off to \u003cclr:0000\u003eGoron City \u003cclr:ffff\u003eto get\nmore gems.\n\nTake care!",
+  "0001": "No, thanks.",
+  "Talk_00": "Hey, hey!",
+  "0002": "Who are you?"
+}

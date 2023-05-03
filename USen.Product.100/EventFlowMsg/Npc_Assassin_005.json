@@ -1,0 +1,14 @@
+{
+  "talk_1015": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0900\u003ejoin my master in the hereafter!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1000": "\u003csp:3:0:2:0a00\u003e\u003csnd:Chat_01\u003eExcuse me...\u003csp:5:0:0\u003e\u003csp:0:4:0\u003eI\u0027d heard that the Yiga Clan had a branch\nin this area. If that\u0027s true, then it\u0027s\nimportant I give it a wide berth.\u003csp:0:4:0\u003eDo you know of the Yiga Clan or this\nnefarious branch of theirs?",
+  "talk_1010": "\u003csp:3:0:2:0800\u003e\u003csnd:Happy_00\u003eWhat luck to have run across such a kind\nand knowledgeable soul!\n\nLuckier still, I now have a souvenir to\nbring home! Just stay right there, and...",
+  "talk_1011": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0900\u003eI\u0027ll take your head!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1020": "\u003csp:3:0:2:0900\u003e\u003csp:0:2:2:7d00\u003estraight to the afterlife!\u003csp:0:2:2:6400\u003e\u003csp:1:3:4:5a000000\u003e",
+  "talk_1021": "\u003csp:0:2:2:7d00\u003e\u003csp:3:0:2:0900\u003eto my master in the beyond!\u003csp:1:3:4:5a000000\u003e\u003csp:0:2:2:6400\u003e",
+  "talk_1003": "\u003csp:3:0:2:0c01\u003e\u003csnd:Think_00\u003eAh, a colleague. Though I\u0027m glad for your\npresence, \u003csp:5:1:0\u003eI can\u0027t have you hanging\naround dressed like that.\nWe\u0027re too close to the nearby Yiga Clan\nbranch to draw any unwanted attention!",
+  "0000": "I\u0027m familiar.",
+  "talk_1013": "\u003csp:3:0:2:0c00\u003e\u003csnd:SurpriseS_00\u003eIs that right? How odd...\u003csp:0:4:0\u003eI could have sworn I\u0027d seen you running\naround the Gerudo Desert before...\u003csp:0:4:0\u003e\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive_00\u003eWell, if you\u0027re also lost, then perhaps\nI can guide you...",
+  "talk_1004": "\u003csp:3:0:2:0700\u003e\u003csnd:Chat_01\u003eThe Yiga Clan branch isn\u0027t far off. Hurry\nand get changed before Link can see you!",
+  "near_0000": "It seems I\u0027ve lost my way...",
+  "0001": "Never heard of \u0027em."
+}
