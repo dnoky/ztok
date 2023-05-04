@@ -1,9 +1,0 @@
-{
-  "Talk_21": "\u003csp:3:0:2:0701\u003e\u003csnd:Greeting\u003eWelcome to the Construct Factory.",
-  "0020": "Construct Factory?",
-  "Talk_22": "\u003csp:3:0:2:0801\u003e\u003csnd:TalkPositive\u003eYes. Parts delivered here from the depots\nare assembled into Crafter Constructs.\u003csp:0:4:0\u003eThe finished products produced here are\nshipped to Dragonhead Island.\u003csp:0:4:0\u003eMy task here is to confirm receipt of the\nparts shipped from the depots.\u003csp:0:4:0\u003eI then oversee the task of ensuring they\nare correctly assembled.\u003csp:0:4:0\u003e\u003csp:3:0:2:0a01\u003e\u003csnd:Sad\u003eCurrently all work processes have been\nsuspended. As have my duties.\u003csp:0:4:0\u003eThe issue seems to be that no parts are\nbeing sent from the depots.\u003csp:0:4:0\u003eI am on standby here to take receipt of\nthem in the event that shipping resumes.",
-  "0021": "Goodbye.",
-  "Talk_23": "\u003csp:3:0:2:0701\u003e\u003csnd:Ease\u003eI will continue my work here. I eagerly\nawait your next visit.",
-  "Near_01": "Oh?",
-  "Talk_20": "\u003csp:3:0:2:0b01\u003e\u003csnd:SurpriseL\u003eWelcome to the Construct Factory.\u003csp:0:4:0\u003eI cannot remember how long it has been\nsince I welcomed any visitors."
-}

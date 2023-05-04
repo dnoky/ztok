@@ -1,7 +1,0 @@
-{
-  "talk_00": "\u003csp:3:0:2:0700\u003eThis is the Garden of Time.\u003csp:0:4:0\u003eMy records indicate that Princess Zelda is\nwaiting at the location marked on the \u003cclr:0000\u003emap\u003cclr:ffff\u003e\nfound in the pad.",
-  "0000": "Garden of Time?",
-  "talk_01": "\u003csp:3:0:2:0700\u003e\u003csnd:Happy\u003eYes. This is the \u003cclr:0000\u003eGarden of Time\u003cclr:ffff\u003e.\u003csp:5:1:0\u003e\nThe structure visible to the north is\nthe \u003cclr:0000\u003eTemple of Time\u003cclr:ffff\u003e.\u003csp:0:4:0\u003eIt was used in the distant past. \u003csp:5:0:0\u003eMany rites\nand ceremonies of the kingdom were\nheld there.\u003csp:0:4:0\u003eNow it is a lonely place. No one visits.\u003csp:0:4:0\u003eApologies. I cannot help but reminisce.",
-  "0001": "Goodbye.",
-  "talk_02": "\u003csp:3:0:2:0700\u003e\u003csnd:TalkPositive\u003eHead to the indicated location. Take care\nas you do so."
-}
