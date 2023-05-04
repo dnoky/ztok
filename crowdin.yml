@@ -1,0 +1,5 @@
+files:
+  - source: /**/
+    ignore:
+      - romfs
+    translation: /%osx_code%/Mals/%original_path%/%original_file_name%
