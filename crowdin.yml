@@ -1,5 +1,7 @@
 files:
   - source: /**/
+    ignore_settings: 1
     ignore:
       - romfs
+      - .gitignore
     translation: /%osx_code%/Mals/%original_path%/%original_file_name%
